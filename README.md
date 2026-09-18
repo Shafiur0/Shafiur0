@@ -87,7 +87,12 @@ available_for: Freelance, Internship, Collaboration
 
 <div align="center">
 
-[![Achievements](https://raw.githubusercontent.com/Shafiur0/Shafiur0/main/achievements.svg)](https://github.com/Shafiur0)
+| &nbsp; | 🎖️ Award | 🏛️ Event | 🛠️ Project |
+|:------:|----------|----------|------------|
+| 🏆 | ![Champion](https://img.shields.io/badge/CHAMPION-gold?style=for-the-badge&labelColor=1a1a2e) | CSAD 2026 — Cyber Security Center, DIU | **DREAKTARACE3** |
+| 🥈 | ![1st Runner-Up](https://img.shields.io/badge/1ST%20RUNNER--UP-bf00ff?style=for-the-badge&labelColor=1a1a2e) | IEEE ICADHI 2026 — Project Showcase | **NIiro** |
+| 🏆 | ![Winner](https://img.shields.io/badge/WINNER-gold?style=for-the-badge&labelColor=1a1a2e) | 5th Data Science Summit — DIU SWE | **BD-Krishibid** |
+| 🤖 | ![Finalist](https://img.shields.io/badge/FINALIST-00f5ff?style=for-the-badge&labelColor=1a1a2e&color=00b4cc) | UFTB RoboFusion 1.0 — National Robotics Festival | **Cortex Crew** |
 
 </div>
 
@@ -101,14 +106,15 @@ available_for: Freelance, Internship, Collaboration
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 BD-Krishibid
-[![BD-Krishibid](https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=bd-krishibid&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff)](https://github.com/Shafiur0/bd-krishibid)
+### 🌾 [BD-Krishibid](https://github.com/Shafiur0/bd-krishibid)
 
-**🏆 5th Data Science Summit Winner — DIU SWE**
+> 🏆 **5th Data Science Summit Winner — DIU SWE**
 
 An AI-powered **AgriTech platform** for Bangladeshi farmers.
 Smart crop recommendations, disease detection,
-and market price analytics using ML.
+and real-time market price analytics using ML.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shafiur0/bd-krishibid)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -118,12 +124,15 @@ and market price analytics using ML.
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Personal Productivity OS
-[![Productivity OS](https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=personal-productivity-os&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff)](https://github.com/Shafiur0/personal-productivity-os)
+### 🧠 [Personal Productivity OS](https://github.com/Shafiur0/personal-productivity-os)
 
-A **full-featured personal OS dashboard** for managing
+> ⚡ **Full-Featured Desktop Dashboard App**
+
+A personal OS-style dashboard for managing
 tasks, goals, habits, notes, and focus sessions —
-all in one sleek interface.
+all in one sleek, offline-first interface.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-bf00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafiur0/personal-productivity-os)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -142,12 +151,12 @@ all in one sleek interface.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shafiur0&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff&border_radius=10" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Shafiur0&theme=radical&hide_border=true&background=0d0d0d&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shafiur0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff&border_radius=10&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shafiur0&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00F5FF&fire=BF00FF&currStreakLabel=00F5FF&border_radius=10" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiur0&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&border_radius=10&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiur0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&border_radius=10&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -157,7 +166,7 @@ all in one sleek interface.
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Shafiur0&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Shafiur0&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
