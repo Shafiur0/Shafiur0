@@ -91,7 +91,7 @@ available_for: Freelance, Internship, Collaboration
 |:------:|----------|----------|------------|
 | 🏆 | ![Champion](https://img.shields.io/badge/CHAMPION-gold?style=for-the-badge&labelColor=1a1a2e) | CSAD 2026 — Cyber Security Center, DIU | **DREAKTARACE3** |
 | 🥈 | ![1st Runner-Up](https://img.shields.io/badge/1ST%20RUNNER--UP-bf00ff?style=for-the-badge&labelColor=1a1a2e) | IEEE ICADHI 2026 — Project Showcase | **NIiro** |
-| 🏆 | ![Winner](https://img.shields.io/badge/WINNER-gold?style=for-the-badge&labelColor=1a1a2e) | 5th Data Science Summit — DIU SWE | **BD-Krishibid** |
+| 🏅 | ![Finalist](https://img.shields.io/badge/FINALIST-gold?style=for-the-badge&labelColor=1a1a2e) | 5th Data Science Summit — DIU SWE | **BD-Krishibid** |
 | 🤖 | ![Finalist](https://img.shields.io/badge/FINALIST-00f5ff?style=for-the-badge&labelColor=1a1a2e&color=00b4cc) | UFTB RoboFusion 1.0 — National Robotics Festival | **Cortex Crew** |
 
 </div>
@@ -108,7 +108,7 @@ available_for: Freelance, Internship, Collaboration
 
 ### 🌾 [BD-Krishibid](https://github.com/Shafiur0/bd-krishibid)
 
-> 🏆 **5th Data Science Summit Winner — DIU SWE**
+> 🏅 **5th Data Science Summit Finalist — DIU SWE**
 
 An AI-powered **AgriTech platform** for Bangladeshi farmers.
 Smart crop recommendations, disease detection,
