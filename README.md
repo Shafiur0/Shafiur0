@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shafiur%20Rahman%20Shafim&fontSize=42&fontColor=00f5ff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student%20%7C%20IoT%20%26%20Robotics%20Enthusiast&descSize=16&descAlignY=55&descColor=bf00ff)
+![Banner](https://raw.githubusercontent.com/Shafiur0/Shafiur0/main/banner.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Shafim+👋;Full-Stack+Developer+%7C+SE+Student;Building+the+future+one+line+at+a+time+⚡;IoT+%26+Robotics+Enthusiast+🤖;Open+Source+Contributor+🌍)](https://git.io/typing-svg)
 
