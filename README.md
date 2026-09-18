@@ -87,6 +87,12 @@ available_for: Freelance, Internship, Collaboration
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=FFD700&background=0D0D0D00&center=true&vCenter=true&width=720&height=45&lines=🏆+CHAMPION+%E2%80%94+CSAD+2026+%7C+DREAKTARACE3;%F0%9F%A5+1ST+RUNNER-UP+%E2%80%94+IEEE+ICADHI+2026+%7C+NIiro;🏅+FINALIST+%E2%80%94+5th+Data+Science+Summit+%7C+BD-Krishibid;🤖+FINALIST+%E2%80%94+RoboFusion+1.0+%7C+Cortex+Crew)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
 | &nbsp; | 🎖️ Award | 🏛️ Event | 🛠️ Project |
 |:------:|----------|----------|------------|
 | 🏆 | ![Champion](https://img.shields.io/badge/CHAMPION-gold?style=for-the-badge&labelColor=1a1a2e) | CSAD 2026 — Cyber Security Center, DIU | **DREAKTARACE3** |
