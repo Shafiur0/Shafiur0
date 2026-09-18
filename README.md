@@ -151,34 +151,28 @@ all in one sleek, offline-first interface.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shafiur0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff&border_radius=10&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shafiur0&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00F5FF&fire=BF00FF&currStreakLabel=00F5FF&border_radius=10" />
+![Followers](https://img.shields.io/github/followers/Shafiur0?style=for-the-badge&logo=github&color=00f5ff&labelColor=0d0d0d&label=Followers)
+![Stars](https://img.shields.io/github/stars/Shafiur0?style=for-the-badge&logo=github&color=bf00ff&labelColor=0d0d0d&label=Total%20Stars&affiliations=OWNER)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Shafiur0&query=public_repos&style=for-the-badge&logo=github&color=ffd700&labelColor=0d0d0d&label=Public%20Repos)
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiur0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&border_radius=10&langs_count=8&cache_seconds=1800" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Shafiur0&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00F5FF&fire=BF00FF&currStreakLabel=00F5FF&border_radius=10" />
+
+<br/>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Shafiur0&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shafiur0&bg_color=0d0d0d&color=00f5ff&line=bf00ff&point=ffffff&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
