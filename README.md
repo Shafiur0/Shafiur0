@@ -83,6 +83,61 @@ available_for: Freelance, Internship, Collaboration
 
 ---
 
+## 🏅 Cortex Crew — Awards & Achievements
+
+<div align="center">
+
+[![Achievements](https://raw.githubusercontent.com/Shafiur0/Shafiur0/main/achievements.svg)](https://github.com/Shafiur0)
+
+</div>
+
+---
+
+## 🚀 Selected Work
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 BD-Krishibid
+[![BD-Krishibid](https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=bd-krishibid&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff)](https://github.com/Shafiur0/bd-krishibid)
+
+**🏆 5th Data Science Summit Winner — DIU SWE**
+
+An AI-powered **AgriTech platform** for Bangladeshi farmers.
+Smart crop recommendations, disease detection,
+and market price analytics using ML.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Personal Productivity OS
+[![Productivity OS](https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=personal-productivity-os&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff)](https://github.com/Shafiur0/personal-productivity-os)
+
+A **full-featured personal OS dashboard** for managing
+tasks, goals, habits, notes, and focus sessions —
+all in one sleek interface.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">

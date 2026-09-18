@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a1a"/>
+      <stop offset="100%" style="stop-color:#0d0d2b"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffd700"/>
+      <stop offset="50%" style="stop-color:#ffed80"/>
+      <stop offset="100%" style="stop-color:#ffd700"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#bf00ff"/>
+      <stop offset="50%" style="stop-color:#df80ff"/>
+      <stop offset="100%" style="stop-color:#bf00ff"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00f5ff"/>
+      <stop offset="50%" style="stop-color:#80faff"/>
+      <stop offset="100%" style="stop-color:#00f5ff"/>
+    </linearGradient>
+    <filter id="glow-gold">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-cyan">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Border glow animation -->
+    <filter id="border-glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="320" fill="url(#bg)" rx="16"/>
+
+  <!-- Animated border -->
+  <rect width="856" height="316" x="2" y="2" fill="none" stroke="url(#cyan)" stroke-width="1.5" rx="15" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner decorations -->
+  <line x1="20" y1="10" x2="10" y2="10" stroke="#00f5ff" stroke-width="2" filter="url(#glow-cyan)"/>
+  <line x1="10" y1="10" x2="10" y2="22" stroke="#00f5ff" stroke-width="2" filter="url(#glow-cyan)"/>
+  <line x1="840" y1="10" x2="850" y2="10" stroke="#00f5ff" stroke-width="2" filter="url(#glow-cyan)"/>
+  <line x1="850" y1="10" x2="850" y2="22" stroke="#00f5ff" stroke-width="2" filter="url(#glow-cyan)"/>
+  <line x1="20" y1="310" x2="10" y2="310" stroke="#00f5ff" stroke-width="2" filter="url(#glow-cyan)"/>
+  <line x1="10" y1="310" x2="10" y2="298" stroke="#00f5ff" stroke-width="2" filter="url(#glow-cyan)"/>
+  <line x1="840" y1="310" x2="850" y2="310" stroke="#00f5ff" stroke-width="2" filter="url(#glow-cyan)"/>
+  <line x1="850" y1="310" x2="850" y2="298" stroke="#00f5ff" stroke-width="2" filter="url(#glow-cyan)"/>
+
+  <!-- Title -->
+  <text x="430" y="38" text-anchor="middle" font-family="monospace" font-size="11" fill="#00f5ff" letter-spacing="6" filter="url(#glow-cyan)" opacity="0.8">⚡ TEAM CORTEX CREW — ACHIEVEMENTS ⚡</text>
+
+  <!-- Animated pulse line under title -->
+  <line x1="140" y1="48" x2="720" y2="48" stroke="url(#cyan)" stroke-width="0.8">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- CHAMPION ROW -->
+  <!-- Trophy icon -->
+  <text x="36" y="92" font-size="22" text-anchor="middle" filter="url(#glow-gold)">🏆</text>
+
+  <!-- Gold champion badge -->
+  <rect x="54" y="72" width="88" height="26" rx="6" fill="none" stroke="url(#gold)" stroke-width="1.5" filter="url(#glow-gold)"/>
+  <text x="98" y="89" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="url(#gold)" filter="url(#glow-gold)">CHAMPION 🥇</text>
+
+  <text x="152" y="83" font-family="monospace" font-size="12.5" font-weight="bold" fill="#ffffff" filter="url(#glow-gold)">CSAD 2026 — Cyber Security Center, DIU</text>
+  <text x="152" y="100" font-family="monospace" font-size="10.5" fill="#aaaacc">Built: <tspan fill="#00f5ff" font-weight="bold">DREAKTARACE3</tspan> &nbsp;•&nbsp; Cortex Crew</text>
+
+  <!-- Animated star particles for champion -->
+  <text x="810" y="88" font-size="14" fill="#ffd700" filter="url(#glow-gold)">✦
+    <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+  <text x="826" y="98" font-size="10" fill="#ffd700">✦
+    <animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Divider -->
+  <line x1="36" y1="114" x2="824" y2="114" stroke="#1a1a3a" stroke-width="1"/>
+
+  <!-- 1ST RUNNER UP ROW -->
+  <text x="36" y="148" font-size="20" text-anchor="middle" filter="url(#glow-cyan)">🥈</text>
+
+  <rect x="54" y="128" width="116" height="26" rx="6" fill="none" stroke="url(#silver)" stroke-width="1.5" filter="url(#glow-cyan)"/>
+  <text x="112" y="145" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="url(#silver)" filter="url(#glow-cyan)">1ST RUNNER-UP 🏅</text>
+
+  <text x="180" y="139" font-family="monospace" font-size="12.5" font-weight="bold" fill="#ffffff">IEEE ICADHI 2026 — Project Showcase</text>
+  <text x="180" y="156" font-family="monospace" font-size="10.5" fill="#aaaacc">Built: <tspan fill="#bf00ff" font-weight="bold">NIiro</tspan> &nbsp;•&nbsp; Cortex Crew</text>
+
+  <text x="810" y="144" font-size="14" fill="#bf00ff" filter="url(#glow-cyan)">✦
+    <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Divider -->
+  <line x1="36" y1="170" x2="824" y2="170" stroke="#1a1a3a" stroke-width="1"/>
+
+  <!-- DATA SCIENCE SUMMIT ROW -->
+  <text x="36" y="204" font-size="20" text-anchor="middle">🏆</text>
+
+  <rect x="54" y="184" width="132" height="26" rx="6" fill="none" stroke="url(#gold)" stroke-width="1.5" filter="url(#glow-gold)"/>
+  <text x="120" y="201" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="url(#gold)">DATA SCIENCE SUMMIT</text>
+
+  <text x="196" y="195" font-family="monospace" font-size="12.5" font-weight="bold" fill="#ffffff">5th Data Science Summit — DIU SWE</text>
+  <text x="196" y="212" font-family="monospace" font-size="10.5" fill="#aaaacc">Built: <tspan fill="#ffd700" font-weight="bold">BD-Krishibid</tspan> &nbsp;•&nbsp; AgriTech AI Platform</text>
+
+  <text x="810" y="200" font-size="14" fill="#ffd700" filter="url(#glow-gold)">✦
+    <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.7s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Divider -->
+  <line x1="36" y1="226" x2="824" y2="226" stroke="#1a1a3a" stroke-width="1"/>
+
+  <!-- ROBOTICS ROW -->
+  <text x="36" y="260" font-size="20" text-anchor="middle">🤖</text>
+
+  <rect x="54" y="240" width="90" height="26" rx="6" fill="none" stroke="url(#cyan)" stroke-width="1.5" filter="url(#glow-cyan)"/>
+  <text x="99" y="257" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="url(#cyan)" filter="url(#glow-cyan)">FINALISTS 🚀</text>
+
+  <text x="154" y="251" font-family="monospace" font-size="12.5" font-weight="bold" fill="#ffffff">UFTB RoboFusion 1.0 — National Robotics Festival</text>
+  <text x="154" y="268" font-family="monospace" font-size="10.5" fill="#aaaacc">Robotics Engineering &nbsp;•&nbsp; <tspan fill="#00f5ff">Cortex Crew</tspan></text>
+
+  <text x="810" y="256" font-size="14" fill="#00f5ff" filter="url(#glow-cyan)">✦
+    <animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="1s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Bottom footer line -->
+  <line x1="140" y1="292" x2="720" y2="292" stroke="url(#cyan)" stroke-width="0.8">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
+  </line>
+  <text x="430" y="308" text-anchor="middle" font-family="monospace" font-size="9" fill="#555577" letter-spacing="3">CORTEX CREW • BUILDING THE FUTURE</text>
+</svg>
