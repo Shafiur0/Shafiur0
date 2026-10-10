@@ -7,30 +7,31 @@
 <!-- ASCII Art Neofetch-Style Profile — generated from real photo -->
 ```
                                                    shafim@github -------------------------
-                       8MWowLL                     OS:                   Arch Linux (btw)
-                    @@8$&bqZLCQO                   Uptime:        21 years, 10 months, 9d
-                 $$$$$$$$$M*a&$W&                  Host:      Daffodil International Univ.
-               $$@$$$$B%*wz/|jZ$B$                 Kernel:        Software Engineering 3.0
-              $$$BM$$WhdLji``:</oM                 IDE:        VS Code 1.96 | IntelliJ '26
-           $$$$$$$@@&Wwzwap?;tt{jdm                
-           $$$$$$$@hZqz(}ubC>ii(?wdk               Languages,Programming:    JS, TS, Java,
-           $$$$$$@&oQj)]<nb*n+" `t&&                                    C++, Python, PHP, C
-           $$$$@$@&W*kLjjZadr}i`.]WW               Languages,Computer: HTML, CSS, JSON, YAML
-             $$BB$B8MMamOLpLj{1_:x                 Languages,Real:  Bangla, English, Hindi
-             $$$$$B8WM#aZUut{!",[                  
-               $$$B&8&&&W*km0Y((                   Hobbies,Software:   Full-Stack Dev, IoT
-                 $$WWWMokbpOUr{/                   Hobbies,Hardware:  Arduino, Raspberry Pi
-                   W#MoqYu(+;'i[ ,>                
-                  &%M*oqYx\[-\{>    >jl :          Contact ----------------------------------
-                 o&$8hqqwOUvYU[:`'l-j\ `^  .`      Email:       srprogramme830@gmail.com
-               ZxjzMBMntpqz[\1/YU._zL"i-l;I:       Portfolio: shafiur-rahaman-shafim.vercel
-           W&@O}<[>[QQLzpmxu_~\Ov{+Znif/[_,.'      LinkedIn:        shafiur-rahman-shafim
-        M*#*%BQj1}',ftzmpjJf~[Qn)*{uJ-zj[:I<: '<   Discord:                         shafim
-      Qdpk#%%M%&WqjI/Y0pUt-{]fb\~db]\(Lx+-}iI><    
-     BQqhd#hhMMW&8@qnh*wn-(1<uQ--f*kt{wj[({--I  .  GitHub Stats -----------------------------
-    *ObkkOUuLboMWM&*dBZn?-{[]})<+_zbwQJ)ff(n~    "+Awards:   Champion | 1st Runner-Up | 2x
-   OOqO&#Q/jzJQwo8qnWkx}!-[l>-f?,;(OYmLLctY/` ..!_ Focus: Full-Stack | IoT | OSS | AI/ML
-  BMzmM8MUnUxjvO#JvQqC/>]/)<{r-::`}QJdpZCQ{ `;!>l  Status:  Freelance, Intern, Collab Ready
+                     M8WhdmJq                      OS:                   Arch Linux (btw)
+                 B%&%WkM#ZJrtxt                    Uptime:        21 years, 10 months, 9d
+               #$%#$$$bUQQ0OCCcnn                  Host:      Daffodil International Univ.
+             $$$$$$$$$$%bOQYcYhoZk                 Kernel:        Software Engineering 3.0
+          $$$$$$$$$$$$$$8#8%MB$$$%8                IDE:        VS Code 1.96 | IntelliJ '26
+        $$$$$$$$$$$$$$8akct/xL#$$@%$               
+       $$$$W#$$$$%#MaqLj_^     {*$B$               Languages,Programming:    JS, TS, Java,
+      $$$$$8a$$$$%oqOc1;        `OMM                                    C++, Python, PHP, C
+    $$$$$$$$M%$$#bqOQQwQfI   ,<[IIdOO              Languages,Computer: HTML, CSS, JSON, YAML
+$$$$$$$$$$$$$$$#k#q\(zwkoOI  <>>! ?bUQu            Languages,Real:  Bangla, English, Hindi
+$$$$$$$$$$$$$@*k8@m1-[-nwwx  >; \| dOOCd           
+  $$$$$$$$$$@oLrtf(?;  ?c0J_     ' t@ChW           Hobbies,Software:   Full-Stack Dev, IoT
+  $$$$$$$$$%8MkJ(i;"'."1qZaL"      .M*M            Hobbies,Hardware:  Arduino, Raspberry Pi
+  $$$$$$$$$%&W*bZc/?i`"nkp&O{~I     C%M            
+  $$$$$$$$$$&W#adqCf?+\CmpO[;       X&h            Contact ----------------------------------
+   $$$$%%&B$%&&MoabCu0QQbwCu-l~<`  .p@             Email:       srprogramme830@gmail.com
+    $$$$$B$$$%%&##*d0Lf/zQx}+:.`   }               Portfolio: shafiur-rahaman-shafim.vercel
+    $$$$$$$$BBWM**oadQcu/1[_l     .                LinkedIn:        shafiur-rahman-shafim
+      $$$$$$B88&W#**od0Xr1_!"     [                Discord:                         shafim
+       $$$$$$M&8%%%888#ahqLLcc(i?                  
+         $$$$MWWWMMM#*#WWW#hhwz)[                  GitHub Stats -----------------------------
+           $$B#WWMModZQCzn/}i   <;                 Awards:   Champion | 1st Runner-Up | 2x
+              ###*kdOcj\]l.     -                  Focus: Full-Stack | IoT | OSS | AI/ML
+              Wo**apQx\)~:     ;:      .?          Status:  Freelance, Intern, Collab Ready
+            %%B#hahpQv|]+!"  ^}          ~i        
 ```
 
 <div align="center">
