@@ -6,31 +6,31 @@
 
 <!-- ASCII Art Neofetch-Style Profile — generated from real photo -->
 ```
-                                        shafim@github -------------------------
-   _++_-_-?]]][{{{{{1(\\\/fffjruuuuuu   OS:                   Arch Linux (btw)
-   _++_----?[}}{{)1(|(|\fjjrrxuuvvuvu   Uptime:        21 years, 10 months, 9d
-   <][]?]}}}{)(|\({]?-_])txxxucccczUC   Host:      Daffodil International Univ.
-   /cUY\{fxzUutcc|iI!>~++-(xnvccczUmm   Kernel:        Software Engineering 3.0
-   dwbhwnuLmbQtn|i;!?/rf[!i{jnccczCmw   IDE:        VS Code 1.96 | IntelliJ '26
-   #dwpbqJCZmUt?i;~{tUJxf]I!}jvvcXLmm
-   $dZLC0QuLhQ/)->?txxncn{i+|nzYCLOmZ   Languages,Programming:    JS, TS, Java,
-   Unrt/xunYw0\tr]>]{}1\(+<1tfxcYLQQQ                        C++, Python, PHP, C
-   -}]?]}))|/|))|1_~-?}{1][}11)\juvcc   Languages,Computer: HTML, CSS, JSON, YAML
-   {[]?????[}1\xcx\{}|t/(tuXLJYYXvnnn   Languages,Real:     Bangla, English, Hindi
-   [{{{}}[[)xJwhhOcjxzzvnvQ*&&M*apUuu
-   vf)\vu\)uwh#8&*pZwqZpmqo8@B8okhbvz   Hobbies,Software:   Full-Stack Dev, IoT
-   $Y(vkhzxQLCqoW88WM#o*#&B@@8a0YmbQC   Hobbies,Hardware:  Arduino, Raspberry Pi
-   $L/L*obQUUtnOa8B%8&W#*W%B%WqxfCqbb
-   $QrwaphpQXj}fJb##M8&akho##bQ\\z0d#   Contact ----------------------------------
-   $OuwqQCLLz/1|jUdka**akkbbbwUc/\vLw   Email:       srprogramme830@gmail.com
-   bzrYr\YCc/}truJwpdbka*oadmOQXuxULC   Portfolio: shafiur-rahaman-shafim.vercel
-   [||)1(/cJcj(jCOmdbahbh#aqOQCUCZqZX   LinkedIn:        shafiur-rahman-shafim
-   //\/\)-}xZadYzchhk$$oQpooabbbOt)z_   Discord:                         shafim
-
-                                        GitHub Stats -----------------------------
-                                        Awards:   Champion | 1st Runner-Up | 2x
-                                        Focus: Full-Stack | IoT | OSS | AI/ML
-                                        Status:  Freelance, Intern, Collab Ready
+                                                   shafim@github -------------------------
+                      '^.^~\f                      OS:                   Arch Linux (btw)
+                       '-_{/nnv                    Uptime:        21 years, 10 months, 9d
+                         l<~}+:~:                  Host:      Daffodil International Univ.
+                         ._]?"                     Kernel:        Software Engineering 3.0
+                .    ^:?co$$$$%[                   IDE:        VS Code 1.96 | IntelliJ '26
+                ,   :~]tU$$$$$$$n:i                
+                   ,"tC1!Ix$$ka*$\}1               Languages,Programming:    JS, TS, Java,
+                 "}+<UM@k)_h$$$W&h:1+                                   C++, Python, PHP, C
+                 :)OW@$$8(+_$$$$$$+:.              Languages,Computer: HTML, CSS, JSON, YAML
+                '`;_jOW$O~l+d%$$$$L ^              Languages,Real:  Bangla, English, Hindi
+                 '^;l1Yr)~~n#$$$$$u                
+                  .",l?(YjtLk$$$$$                 Hobbies,Software:   Full-Stack Dev, IoT
+                  '^,:l[fJbW$$$$$                  Hobbies,Hardware:  Arduino, Raspberry Pi
+                 `   ..':l_1\nhW                   
+                 ````^;!!>+}fC*a                   Contact ----------------------------------
+                  ,^,!?rYw%$$$$&$$                 Email:       srprogramme830@gmail.com
+                  "::i}zm#$$$$$$$$$$$$o$           Portfolio: shafiur-rahaman-shafim.vercel
+               '.  l!>]jULb#qn$$$$$$$$d$$$$$$$     LinkedIn:        shafiur-rahman-shafim
+              ?[:  ,+j|?_tcmcwM$$$$$bvp$$$$$$$$    Discord:                         shafim
+            ^c##d) `l##}}f8$W$hJl$$$Lr$$$$$$$$$    
+        '' ^Z$$$$$cx|rc{<OOp$$@\C0$W)Y$8b#$$$$$    GitHub Stats -----------------------------
+     ,^,:  >hW$$$$%hdz\>Cq?$$$U\${\$fx$pUW$$$$$    Awards:   Champion | 1st Runner-Up | 2x
+   ?I[i;. .' <+U$$$LQx?xq*$B$a?c$C^L$U@Lc#$$$$$    Focus: Full-Stack | IoT | OSS | AI/ML
+  ct>[l, ^"``   .r$u)!}uh$o$$Z]h$8?"C$$rxW$B$$$    Status:  Freelance, Intern, Collab Ready
 ```
 
 <div align="center">
