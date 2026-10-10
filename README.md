@@ -1,6 +1,39 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/Shafiur0/Shafiur0/main/banner.jpg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Shafiur%20Rahman%20Shafim&fontSize=36&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Software%20Engineering%20Student&descSize=16&descColor=BF00FF&descAlignY=55)
+
+</div>
+
+<!-- ASCII Art Neofetch-Style Profile — generated from real photo -->
+```
+                                        shafim@github -------------------------
+   _++_-_-?]]][{{{{{1(\\\/fffjruuuuuu   OS:                   Arch Linux (btw)
+   _++_----?[}}{{)1(|(|\fjjrrxuuvvuvu   Uptime:        21 years, 10 months, 9d
+   <][]?]}}}{)(|\({]?-_])txxxucccczUC   Host:      Daffodil International Univ.
+   /cUY\{fxzUutcc|iI!>~++-(xnvccczUmm   Kernel:        Software Engineering 3.0
+   dwbhwnuLmbQtn|i;!?/rf[!i{jnccczCmw   IDE:        VS Code 1.96 | IntelliJ '26
+   #dwpbqJCZmUt?i;~{tUJxf]I!}jvvcXLmm
+   $dZLC0QuLhQ/)->?txxncn{i+|nzYCLOmZ   Languages,Programming:    JS, TS, Java,
+   Unrt/xunYw0\tr]>]{}1\(+<1tfxcYLQQQ                        C++, Python, PHP, C
+   -}]?]}))|/|))|1_~-?}{1][}11)\juvcc   Languages,Computer: HTML, CSS, JSON, YAML
+   {[]?????[}1\xcx\{}|t/(tuXLJYYXvnnn   Languages,Real:     Bangla, English, Hindi
+   [{{{}}[[)xJwhhOcjxzzvnvQ*&&M*apUuu
+   vf)\vu\)uwh#8&*pZwqZpmqo8@B8okhbvz   Hobbies,Software:   Full-Stack Dev, IoT
+   $Y(vkhzxQLCqoW88WM#o*#&B@@8a0YmbQC   Hobbies,Hardware:  Arduino, Raspberry Pi
+   $L/L*obQUUtnOa8B%8&W#*W%B%WqxfCqbb
+   $QrwaphpQXj}fJb##M8&akho##bQ\\z0d#   Contact ----------------------------------
+   $OuwqQCLLz/1|jUdka**akkbbbwUc/\vLw   Email:       srprogramme830@gmail.com
+   bzrYr\YCc/}truJwpdbka*oadmOQXuxULC   Portfolio: shafiur-rahaman-shafim.vercel
+   [||)1(/cJcj(jCOmdbahbh#aqOQCUCZqZX   LinkedIn:        shafiur-rahman-shafim
+   //\/\)-}xZadYzchhk$$oQpooabbbOt)z_   Discord:                         shafim
+
+                                        GitHub Stats -----------------------------
+                                        Awards:   Champion | 1st Runner-Up | 2x
+                                        Focus: Full-Stack | IoT | OSS | AI/ML
+                                        Status:  Freelance, Intern, Collab Ready
+```
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Shafim+👋;Full-Stack+Developer+%7C+SE+Student;Building+the+future+one+line+at+a+time+⚡;IoT+%26+Robotics+Enthusiast+🤖;Open+Source+Contributor+🌍)](https://git.io/typing-svg)
 
@@ -37,6 +70,16 @@ passion: [Building scalable apps, IoT & Robotics, Open Source]
 fun_fact: I talk to my Arduino more than I talk to people 🤖
 available_for: Freelance, Internship, Collaboration
 ```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shafiur0&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
+
+</div>
 
 ---
 
@@ -83,11 +126,26 @@ available_for: Freelance, Internship, Collaboration
 
 ---
 
+## 🔥 Currently Working On
+
+<div align="center">
+
+| 🎯 Focus Area | 📋 Project | 🚦 Status |
+|:---:|:---:|:---:|
+| ![Full-Stack](https://img.shields.io/badge/Full--Stack-00F5FF?style=flat-square) | AgriConnectBD 2.0 — AI-powered AgriTech | ![In Progress](https://img.shields.io/badge/In%20Progress-BF00FF?style=flat-square) |
+| ![IoT](https://img.shields.io/badge/IoT-00878A?style=flat-square) | Smart Home Automation System | ![Building](https://img.shields.io/badge/Building-FFD700?style=flat-square) |
+| ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square) | Health AI Research — NIiro 2.0 | ![Research](https://img.shields.io/badge/Research-00F5FF?style=flat-square) |
+| ![Open Source](https://img.shields.io/badge/Open%20Source-339933?style=flat-square) | Contributing to community projects | ![Active](https://img.shields.io/badge/Active-00FF00?style=flat-square) |
+
+</div>
+
+---
+
 ## 🏅 Cortex Crew — Awards & Achievements
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=FFD700&background=0D0D0D00&center=true&vCenter=true&width=720&height=45&lines=🏆+CHAMPION+%E2%80%94+CSAD+2026+%7C+DREAKTARACE3;%F0%9F%A5+1ST+RUNNER-UP+%E2%80%94+IEEE+ICADHI+2026+%7C+NIiro;🏅+FINALIST+%E2%80%94+5th+Data+Science+Summit+%7C+BD-Krishibid;🤖+FINALIST+%E2%80%94+RoboFusion+1.0+%7C+Cortex+Crew)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=FFD700&background=0D0D0D00&center=true&vCenter=true&width=720&height=45&lines=🏆+CHAMPION+%E2%80%94+CSAD+2026+%7C+DREAKTARACE3;%F0%9F%A5+1ST+RUNNER-UP+%E2%80%94+IEEE+ICADHI+2026+%7C+NIiro;🏅+FINALIST+%E2%80%94+5th+Data+Science+Summit+%7C+BD-Krishibid;🤖+FINALIST+%E2%80%94+RoboFusion+1.0+%7C+Cortex+Crew)](https://git.io/typing-svg)
 
 </div>
 
@@ -164,6 +222,10 @@ all in one sleek, offline-first interface.
 <br/>
 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Shafiur0&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00F5FF&fire=BF00FF&currStreakLabel=00F5FF&border_radius=10" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiur0&bg_color=0d0d0d&color=00f5ff&line=bf00ff&point=ffd700&area=true&area_color=bf00ff&hide_border=true&custom_title=Contribution%20Activity" />
 
 <br/>
 
