@@ -6,32 +6,50 @@
 
 <!-- ASCII Art Neofetch-Style Profile — generated from real photo -->
 ```
-                                                   shafim@github -------------------------
-                     M8WhdmJq                      OS:                   Arch Linux (btw)
-                 B%&%WkM#ZJrtxt                    Uptime:        21 years, 10 months, 9d
-               #$%#$$$bUQQ0OCCcnn                  Host:      Daffodil International Univ.
-             $$$$$$$$$$%bOQYcYhoZk                 Kernel:        Software Engineering 3.0
-          $$$$$$$$$$$$$$8#8%MB$$$%8                IDE:        VS Code 1.96 | IntelliJ '26
-        $$$$$$$$$$$$$$8akct/xL#$$@%$               
-       $$$$W#$$$$%#MaqLj_^     {*$B$               Languages,Programming:    JS, TS, Java,
-      $$$$$8a$$$$%oqOc1;        `OMM                                    C++, Python, PHP, C
-    $$$$$$$$M%$$#bqOQQwQfI   ,<[IIdOO              Languages,Computer: HTML, CSS, JSON, YAML
-$$$$$$$$$$$$$$$#k#q\(zwkoOI  <>>! ?bUQu            Languages,Real:  Bangla, English, Hindi
-$$$$$$$$$$$$$@*k8@m1-[-nwwx  >; \| dOOCd           
-  $$$$$$$$$$@oLrtf(?;  ?c0J_     ' t@ChW           Hobbies,Software:   Full-Stack Dev, IoT
-  $$$$$$$$$%8MkJ(i;"'."1qZaL"      .M*M            Hobbies,Hardware:  Arduino, Raspberry Pi
-  $$$$$$$$$%&W*bZc/?i`"nkp&O{~I     C%M            
-  $$$$$$$$$$&W#adqCf?+\CmpO[;       X&h            Contact ----------------------------------
-   $$$$%%&B$%&&MoabCu0QQbwCu-l~<`  .p@             Email:       srprogramme830@gmail.com
-    $$$$$B$$$%%&##*d0Lf/zQx}+:.`   }               Portfolio: shafiur-rahaman-shafim.vercel
-    $$$$$$$$BBWM**oadQcu/1[_l     .                LinkedIn:        shafiur-rahman-shafim
-      $$$$$$B88&W#**od0Xr1_!"     [                Discord:                         shafim
-       $$$$$$M&8%%%888#ahqLLcc(i?                  
-         $$$$MWWWMMM#*#WWW#hhwz)[                  GitHub Stats -----------------------------
-           $$B#WWMModZQCzn/}i   <;                 Awards:   Champion | 1st Runner-Up | 2x
-              ###*kdOcj\]l.     -                  Focus: Full-Stack | IoT | OSS | AI/ML
-              Wo**apQx\)~:     ;:      .?          Status:  Freelance, Intern, Collab Ready
-            %%B#hahpQv|]+!"  ^}          ~i        
+''''''''''''''''.........''................''..::.:::..:...:::::;;;;;.'.:.'.~>!$    
+''''''''''''''.....''''....................'.:....:::.:'.:.:::::::;;;:'.::'.+[!$    
+''''''''''''.'''''''.......:::::...........'.::::::::.. ':..::::::;;;;'.::'.+c)$    
+'''''''''''''''''........:.::::::..:.......'.:::``'::''`':::::::::;;;;''.~..<(L$    shafiur@github ---------------------------------------------
+''''''''''''''........:::..::::::::::::.:....:;:  '.:'``::::::::;;;;;;.'.c:.>I($    OS:                  Windows 11 / Ubuntu
+'''''''''''.........:::::::::::::::::::::::..:;.   .:`'.:::::::...'';~:'.c;.</r$    Uptime:              25 years, 2 months
+''```'''''.........:::::::::.....:::..:::::..:;.`'':.`` :::.`````''':~:''|+.<?z$    University:          Daffodil International University
+``''''''..........:::::..''``'.:::::...':::..;;;'``    `.:;`  `'`''..~;.'|>.<I@$    Department:          Software Engineering (SWE)
+`''''''.........:....'`````.:.;:::.::.   .:..;;;.    `.:':;'``` ``';.~~.'cc.<I$$    Batch:               Batch 43 (Section D2)
+''''''..........''''''.....''':<}}>..'   '..';;;:' `'.:;;:;.'  ``.'..;+:'>}.<I$$    Role:                CR | Deputy Secretary (Student Welfare) - SQAT Club
+''''''......''``''..:::;' ` :~:<cx(1;     .'';;~~;;;;;;;;;;..`   `  `;+;.<1:<I$$    Location:            Dhaka, Bangladesh
+'''''''''````'...:::::.. '   >c[>>>|}.     '`;~~+~~~~;::;;;'         :+~.;\;~!$$    
+'''``````'.....::::::'        :<c}[';:     '`;++<~;;;.`';.;`         .<+::\++!$$    Languages / Frameworks: Java, Python, C, C++, JavaScript, TypeScript
+`   ``'........::::`          `' '   `     '`;<+:.;;;;::` :.       ``:+<;:(>+/$$    Frontend:            React, Next.js, HTML, CSS, Tailwind CSS
+ `''..........:::.`          .~{x|;  `     ``;<<::~;;;:`  .:    '.:;~~+<~.xc~?$$    Backend:             Node.js, Express, Prisma
+'.............:::    `   ```:>(*#$#/       ``;<<+++~~;.''':;.:;;;~~~~++<+.}}~z$$    Database:            PostgreSQL (Supabase), MongoDB
+.........::::..:`   '.   '~[(L$$$$$$)'      `;><;;~~:''`.'';;;;;;;;;~~+<<.cx~B$$    Tools:               Git, GitHub, Vercel, VS Code, Figma
+......::..'``::'     :   :<+>1r8$$B*@1;;     :><:...`   .'';:.:;;;;~~++<>;>\~M$M    Interests:           AI, Cybersecurity, Web & Game Development
+......'      `          ;~[1c~[!$#(IrL~c>'   :>>;;::.''``  :: .;;;;;~+++<~+?+M$$    Hobbies:             Competitive Programming, Gaming, Tech, Music
+.....:   `'            ..'\I[+.c$M(*r@}<cc'  .[>;'..''     :: `;;;;;~~++<<;![M$$    
+.....:  ''`           .+'.1)z?>>)8r#I)/;><'  .[>.    ` `'.:;:  :;;;;~~++<>;!}@$$    Contact ----------------------------------------------------
+.....:               `+x//)*M({>\$$$W#z.>:   `[[:`.:;;~+~~;::  :;;;~~~++<>;\x@$8    Email (Personal):    shafiurrahman@gmail.com
+.....:      '`       '.>IL*@@)<~<*#$$$8+.'    >[>>><++~;;;;::' .;;;;~~++<>+{/*$$    Email (Work):        shafiur@diu.edu.bd
+.....:      `        '.;[x!L@/~:'/?8$$$} '    >[><<++~~;;;;::. ';;;;~~++<><c/*$$    LinkedIn:            shafiur-rahman-shafim
+......      .        '.:~>x(Lx<;\*8$$$$x';    [c[<<++~~~;;;::: `;;;~~~++<<>>?*$$    Portfolio:           shafiur0.vercel.app
+..''`` `'..::`       `'.:;c(|<~+>?rLM$${'.    >c[><++~~~~;;;;:  :;;~~~++<<><(M$$    GitHub:              github.com/Shafiur0
+` ```'.`   .:.`   .'  ``.:+[[x<[?L@(*WM+''    >c[><++~~~~;;;;;' .;;;;~+++<><|O$$    
+     .'    .:.`       `'..:<{(1{x/L#8Wr''`    <c[><++~~~~;;;;;. ';;;;~++<<>>>r$$    
+     ''    .:.:       `.:::~[{\)zB$$WW(       ~c[><<++~~~~;;;;: `:;;~~~++<<>>?$$    
+   ``'`    :::::      ``'..:+c1\!rM$$L;       ;[>><<++~~~;;;;;;` :;;~~~++<<>>/$$    
+''.'..     :::::.     '`` ``'::<c{1)?;'     ` ;[>>><+++~~;;;;;;. .;;;;~++<<>>r$$    
+'''.'.     :.:::::    .''....'''::+1/'``  ``  ;[>>><++~~~~;;;;;: `:;;;~~+<<>>L$$    
+''''..     :.:::::'   '.'..~<<[|xIO#r(;      ';[>>><++~~~;;;;;;:  :;;;;~++<<>!88    
+''''''  `'...::::.'''`'..:;<|xIr@8$$(8M+    `.:c[>><+++~~~;;;;;;' :;;;~~~+<<>?Mz    
+'''''''......::::.''''.:.:+[(\!O#8$8r$$$(c~.` '|c[><+++~~~;;;;;;'`.;;;;~~+<>[I$B    
+'''''''.......::::''''`.::;[xI(*MW8LO$$$$$r!)x>c><<<<++++~~;;;;;. .;;;;~~+<<[L$$    
+'''''''........:::''.' `;;~[xI!rO@(*M$$$$$$?M$$Mz?}<~~++++~~~;;;;`';;;~~++<<>z$$    
+'''''''.......::::'..'  ;~+>|}1/?|}@W$$$$$8I$$$$$$$$L(<<<+~~~;;;:' :;;~~+++<>B$W    
+''''''''......::::'~~.  :<c[><|x11)z8$$$rI|/$$M$$$$$$$O[+++~~;;;'```;;;~++<<>*$$    
+''''''''......:::.+xx>  .<!x<+x/@!)IO<*$(\{W$OM$$$$8$$$B<+++~;;;. ``:;;~++<<>(8$    
+''''''''........`;/Lrr| .~zr[||**L@(c<$$M/x$Mz$@$WW$$$$$@<++~~;;.`` :;;~~+<<>(ML    
+'''''''......''` xB@OBO>>+x([+(L?O@L{}*$!|x8Lz!#MM$$$$$$$r;<~~;;:`  .~~~~+<<[M$#    
+''''''''...''.' <L*BO#$I?x|c><r>rWM!|)<*r>(#rxr@O$$$$$$$$$|~+~;;;:..:;~~~+<<[@$$    
+''''''''''.'::` |L!M)$$r)?x|;/\~BB*x|B[}McxWI(O($$W$$$$#$$*++~;;;;;;;;;~~+<<[B$$    
 ```
 
 <div align="center">
