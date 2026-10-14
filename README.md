@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 3D BROWSER / OS WINDOW FRAME -->
+<!-- 3D BROWSER / OS WINDOW FRAME WITH ANIMATED CORE -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -65,7 +65,7 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 01: SYSTEM CORE // DEVELOPER SPECS -->
+<!-- SECTION 01: SYSTEM CORE // DEVELOPER ARCHITECTURE & 3D ANIMATION -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h3 id="-about-system">💻 <code>[ 01 ] SYSTEM_CORE // DEVELOPER ARCHITECTURE</code></h3>
@@ -101,7 +101,10 @@ const shafim: ArchitectCore = {
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiur0&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=00f0ff&text_color=e2e8f0&langs_count=8" width="320" />
+<!-- 3D Rotating Holographic Cyber Sphere -->
+<img src="assets/mindsphere.gif" width="280" alt="3D Holographic Cyber Core Animation" style="border-radius: 12px; filter: drop-shadow(0 0 16px rgba(0,240,255,0.4));" />
+<br/>
+<sub><i>🌐 3D Neural MindSphere Core</i></sub>
 
 </td>
 </tr>
@@ -109,10 +112,10 @@ const shafim: ArchitectCore = {
 
 <br/>
 
-<!-- 3D Holographic Developer Lab Showcase -->
+<!-- 3D ANIMATED DEVELOPER LAB SHOWCASE -->
 <div align="center">
-  <img src="assets/tech_workspace.jpg" width="100%" alt="Holographic Developer Workspace" style="border-radius: 8px;" />
-  <p><sub><i>🖥️ Holographic R&D Lab — Where scalable cloud pipelines, neural algorithms, and microcontroller hardware converge.</i></sub></p>
+  <img src="assets/animated_workspace.gif" width="100%" alt="3D Animated Developer R&D Lab" style="border-radius: 10px; border: 1px solid #1f293d; box-shadow: 0 0 24px rgba(0, 240, 255, 0.2);" />
+  <p><sub><i>🖥️ <b>3D Interactive R&D Lab</b> — Where multi-threaded cloud logic, neural networks, and embedded IoT microcontrollers operate in real-time.</i></sub></p>
 </div>
 
 <!-- 2px Neon Gradient Laser Line -->
@@ -121,7 +124,7 @@ const shafim: ArchitectCore = {
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 02: TECH MATRIX // WEAPONS OF CHOICE -->
+<!-- SECTION 02: TECH MATRIX // 3D FLOATING TECH ANIMATION -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -129,6 +132,11 @@ const shafim: ArchitectCore = {
 <h3 id="-tech-matrix">⚙️ <code>[ 02 ] TECH_MATRIX // WEAPONS OF CHOICE</code></h3>
 
 <br/>
+
+<!-- 3D Floating Isometric Tech Cubes Animation -->
+<img src="assets/floating_tech.gif" width="55%" alt="3D Floating Tech Cubes" style="filter: drop-shadow(0 0 16px rgba(191,0,255,0.35));" />
+
+<br/><br/>
 
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
 <tr>
@@ -304,14 +312,19 @@ Distributed IoT home automation and environmental telemetry architecture built w
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 05: TELEMETRY MATRIX & GITHUB METRICS -->
+<!-- SECTION 05: TELEMETRY MATRIX & 3D ANIMATED STATS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3 id="-telemetry-matrix">📊 <code>[ 05 ] TELEMETRY_MATRIX // GITHUB VELOCITY</code></h3>
+<h3 id="-telemetry-matrix">📊 <code>[ 05 ] TELEMETRY_MATRIX // 3D GITHUB VELOCITY</code></h3>
 
 <br/>
+
+<!-- 3D Holographic Telemetry Animation -->
+<img src="assets/hologram_stats.gif" width="340" alt="3D Holographic Telemetry Cylinder" style="border-radius: 8px; filter: drop-shadow(0 0 16px rgba(0,240,255,0.4));" />
+
+<br/><br/>
 
 <p>
   <img src="https://img.shields.io/github/followers/Shafiur0?style=for-the-badge&logo=github&color=00f0ff&labelColor=0d0d1a&label=FOLLOWERS" />&nbsp;
@@ -327,8 +340,8 @@ Distributed IoT home automation and environmental telemetry architecture built w
 
 <br/><br/>
 
-<!-- Contribution Grid Snake Matrix -->
-<b>🐍 CODE VELOCITY // CONTRIBUTION MATRIX</b>
+<!-- Contribution Grid Snake Matrix Animation -->
+<b>🐍 CODE VELOCITY // CONTRIBUTION MATRIX ANIMATION</b>
 
 <br/><br/>
 
