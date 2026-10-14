@@ -340,6 +340,15 @@ Distributed IoT home automation and environmental telemetry architecture built w
 
 <br/><br/>
 
+<!-- 3D Isometric City Contribution Graph -->
+<b>🏙️ 3D ISOMETRIC CONTRIBUTION CITY // CODE SKYLINE</b>
+
+<br/><br/>
+
+<img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution City" style="border-radius: 10px; border: 1px solid #1f293d; box-shadow: 0 0 20px rgba(0, 240, 255, 0.25);" />
+
+<br/><br/>
+
 <!-- Contribution Grid Snake Matrix Animation -->
 <b>🐍 CODE VELOCITY // CONTRIBUTION MATRIX ANIMATION</b>
 
