@@ -236,8 +236,8 @@ const shafim = {
 <a href="https://github.com/Shafiur0/bd-krishibid">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=bd-krishibid&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=e2e8f0&description_lines=3" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/Shafiur0/personal-productivity-os">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=personal-productivity-os&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=e2e8f0&description_lines=3" />
+<a href="https://github.com/Shafiur0/nexora-portfolio">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=nexora-portfolio&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=e2e8f0&description_lines=3" />
 </a>
 
 <br/><br/>
@@ -261,16 +261,15 @@ AI-powered **AgriTech platform** for Bangladeshi farmers — smart crop recommen
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Personal Productivity OS
-> ⚡ **Full-Featured Desktop Dashboard App**
+### 🧠 Nexora Portfolio
+> 🚀 **Modern Developer Portfolio**
 
-A personal OS-style dashboard for managing tasks, goals, habits, notes, and focus sessions — all in one sleek, offline-first interface.
+A sleek, animated personal portfolio built with modern web technologies — featuring smooth transitions, dark mode, and responsive design.
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 </td>
@@ -305,13 +304,13 @@ A personal OS-style dashboard for managing tasks, goals, habits, notes, and focu
 <br/>
 
 <!-- Stats + Streak Side by Side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shafiur0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=e2e8f0&ring_color=a78bfa&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shafiur0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=e2e8f0&ring_color=a78bfa&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shafiur0&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideNums=e2e8f0&dates=94a3b8&border_radius=10" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiur0&bg_color=0d0d0d&color=a78bfa&line=f472b6&point=ffd700&area=true&area_color=a78bfa20&hide_border=true&custom_title=📈%20Contribution%20Activity" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiur0&bg_color=0d0d0d&color=a78bfa&line=f472b6&point=ffd700&area=true&area_color=a78bfa&hide_border=true&custom_title=📈%20Contribution%20Activity" />
 
 </div>
 
@@ -332,7 +331,7 @@ A personal OS-style dashboard for managing tasks, goals, habits, notes, and focu
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shafiur0&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shafiur0&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
 
 </div>
 
