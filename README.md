@@ -26,7 +26,7 @@
 
 <!-- Live Telemetry Visitor Badge -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Shafiur0&style=for-the-badge&color=00f0ff&label=SYSTEM_VISITORS&labelColor=0d0d1a" />
+  <img src="https://komarev.com/ghpvc/?username=Shafiur0&style=for-the-badge&color=00f0ff" />
 </p>
 
 </div>
@@ -114,7 +114,7 @@ interface DeveloperCore {
 <br/>
 
 <!-- Custom Animated Glowing Achievements SVG -->
-<img src="achievements.svg" width="100%" alt="Team Cortex Crew Achievements & Honors" />
+<img src="https://raw.githubusercontent.com/Shafiur0/Shafiur0/main/achievements.svg" width="100%" alt="Team Cortex Crew Achievements & Honors" />
 
 <br/><br/>
 
