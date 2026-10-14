@@ -1,26 +1,40 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 3D HERO BANNER -->
+<!-- 3D BROWSER / OS WINDOW FRAME -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://shafim.vercel.app/" target="_blank">
-  <img width="100%" src="assets/hero_banner.jpg" alt="Shafiur Rahman Shafim - Full-Stack & IoT Architect" style="border-radius: 10px;" />
-</a>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" style="background: #111827; padding: 10px 16px; border-radius: 12px 12px 0 0; border-bottom: 2px solid #1f293d;">
+  <span style="color: #ff5f56; font-size: 16px;">●</span>&nbsp;
+  <span style="color: #ffbd2e; font-size: 16px;">●</span>&nbsp;
+  <span style="color: #27c93f; font-size: 16px;">●</span>&nbsp;&nbsp;&nbsp;
+  <code>🔒 https://shafim.dev/core-system &nbsp;—&nbsp; [ SHAFIUR RAHMAN SHAFIM // 3D OS ]</code>
+</td>
+</tr>
+<tr>
+<td align="center" style="background: #08090d; padding: 0;">
+  <a href="https://shafim.vercel.app/" target="_blank">
+    <img width="100%" src="assets/hero_banner.jpg" alt="Shafiur Rahman Shafim - 3D Developer Banner" />
+  </a>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<!-- Modern Web Navigation Bar -->
+<!-- 3D Interactive Website Navigation Bar -->
 <p align="center">
-  <a href="#-about-me"><b>⚡ ABOUT</b></a> &nbsp;•&nbsp; 
-  <a href="#-tech-matrix"><b>🛠️ TECH MATRIX</b></a> &nbsp;•&nbsp; 
-  <a href="#-featured-projects"><b>🚀 PROJECTS</b></a> &nbsp;•&nbsp; 
-  <a href="#-honors--achievements"><b>🏆 HONORS</b></a> &nbsp;•&nbsp; 
-  <a href="#-telemetry--analytics"><b>📊 TELEMETRY</b></a> &nbsp;•&nbsp; 
-  <a href="#-quantum-uplink"><b>📡 CONNECT</b></a>
+  <a href="#-about-system"><img src="https://img.shields.io/badge/⚡_01_//_SYSTEM_CORE-0d1117?style=for-the-badge&logo=react&logoColor=00f0ff" /></a>&nbsp;
+  <a href="#-tech-matrix"><img src="https://img.shields.io/badge/🛠️_02_//_TECH_MATRIX-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=bf00ff" /></a>&nbsp;
+  <a href="#-featured-ventures"><img src="https://img.shields.io/badge/🚀_03_//_VENTURES-0d1117?style=for-the-badge&logo=rocket&logoColor=00ff9d" /></a>&nbsp;
+  <a href="#-hall-of-fame"><img src="https://img.shields.io/badge/🏆_04_//_HONORS-0d1117?style=for-the-badge&logo=trophy&logoColor=ffd700" /></a>&nbsp;
+  <a href="#-telemetry-matrix"><img src="https://img.shields.io/badge/📊_05_//_TELEMETRY-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff" /></a>&nbsp;
+  <a href="#-quantum-uplink"><img src="https://img.shields.io/badge/📡_06_//_CONNECT-0d1117?style=for-the-badge&logo=rss&logoColor=f472b6" /></a>
 </p>
 
-<!-- Live System Telemetry Bar -->
+<!-- Live Telemetry Status Pill -->
 <p align="center">
   <code>🟢 SYSTEM ONLINE</code> &nbsp;|&nbsp;
   <code>⚡ FULL-STACK & IOT ARCHITECT</code> &nbsp;|&nbsp;
@@ -28,16 +42,16 @@
   <code>🎯 AVAILABLE FOR HIRE & COLLABORATION</code>
 </p>
 
-<!-- Animated Typing SVG with Electric Cyan -->
+<!-- Dynamic Electric Cyan Typing Banner -->
 <a href="https://shafim.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1100&color=00F0FF&center=true&vCenter=true&multiline=false&width=780&height=46&lines=%E2%9A%A1+Engineering+Scalable+Full-Stack+Platforms;%F0%9F%A4%96+Building+Intelligent+IoT+%26+Robotics+Systems;%F0%9F%A7%A0+Pioneering+AI%2FML+Biomedical+Research;%F0%9F%8F%86+Champion+%40+CSAD+2026+%E2%80%A2+IEEE+ICADHI+Awardee;%F0%9F%8C%90+Turning+Complex+Logic+Into+Elegant+Reality" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1100&color=00F0FF&center=true&vCenter=true&multiline=false&width=780&height=46&lines=%E2%9A%A1+Architecting+Scalable+Cloud+Platforms;%F0%9F%A4%96+Pioneering+Intelligent+IoT+%26+Robotics+Systems;%F0%9F%A7%A0+Engineering+Applied+AI%2FML+Screening+Engines;%F0%9F%8F%86+Champion+%40+CSAD+2026+%E2%80%A2+IEEE+ICADHI+Awardee;%F0%9F%8C%90+Turning+Complex+Logic+Into+Elegant+Reality" alt="Typing Banner" />
 </a>
 
 <br/>
 
-<!-- Interactive Action Buttons -->
+<!-- Interactive Quick Links -->
 <p align="center">
-  <a href="https://shafim.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/⚡_VISIT_PORTFOLIO-00f0ff?style=for-the-badge&logo=vercel&logoColor=000000" /></a>&nbsp;
+  <a href="https://shafim.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/⚡_PRIMARY_PORTFOLIO-00f0ff?style=for-the-badge&logo=vercel&logoColor=000000" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/shafiur-rahman-shafim/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:srprogramme830@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://leetcode.com/u/shafiurrahmanshafim/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -45,42 +59,42 @@
 
 </div>
 
-<!-- Sleek 2px Neon Laser Hairline -->
+<!-- 2px Neon Gradient Laser Line -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:bf00ff,100:00f0ff&height=3&section=header" width="100%" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 3D WORKSPACE & SYSTEM SPECS -->
+<!-- SECTION 01: SYSTEM CORE // DEVELOPER SPECS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h3 id="-about-me">💻 <code>SYSTEM_CORE // ARCHITECT PROFILE</code></h3>
+<h3 id="-about-system">💻 <code>[ 01 ] SYSTEM_CORE // DEVELOPER ARCHITECTURE</code></h3>
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="55%" valign="top">
 
 ```typescript
 /**
- * @profile Shafiur Rahman Shafim
- * @role Full-Stack Engineer • IoT & AI Researcher
+ * @architect Shafiur Rahman Shafim
+ * @role Lead Full-Stack & IoT Systems Engineer
  */
-const shafim: DeveloperProfile = {
+const shafim: ArchitectCore = {
   identity: {
     handle: "Shafiur0",
     name: "Shafiur Rahman Shafim",
     education: "B.Sc. Software Engineering @ Daffodil Int. University",
     hq: "Dhaka, Bangladesh 🇧🇩",
-    team: "Cortex Crew [Lead Architect]"
+    leadership: "Cortex Crew [Lead Software & Robotics Architect]"
   },
-  domains: [
-    "Full-Stack Web Architectures (React / Next.js / Node.js)",
-    "Hardware IoT & Embedded Systems (ESP32 / Arduino / Sensors)",
+  disciplines: [
+    "Full-Stack Cloud Architectures (React / Next.js / Node.js)",
+    "Distributed Hardware IoT & Microcomputing (ESP32 / Arduino C++)",
     "Applied Machine Learning & Medical Screening Systems",
-    "Autonomous Robotics & Edge Computing"
+    "Autonomous Robotics & Edge Automation"
   ],
-  philosophy: "Build reliable, beautiful software that interfaces with the physical world.",
-  status: "🟢 OPEN FOR EXCITING CHALLENGES"
+  motto: "Bridging scalable digital intelligence with physical embedded hardware.",
+  status: "🟢 OPEN FOR EXCITING OPPORTUNITIES"
 };
 ```
 
@@ -95,28 +109,153 @@ const shafim: DeveloperProfile = {
 
 <br/>
 
-<!-- 3D Holographic Lab Display -->
+<!-- 3D Holographic Developer Lab Showcase -->
 <div align="center">
-  <img src="assets/tech_workspace.jpg" width="100%" alt="Shafim's Holographic R&D Lab" style="border-radius: 8px;" />
-  <p><sub><i>🖥️ Holographic R&D Workspace — Where high-performance cloud logic, neural networks, and embedded IoT microcontrollers unite.</i></sub></p>
+  <img src="assets/tech_workspace.jpg" width="100%" alt="Holographic Developer Workspace" style="border-radius: 8px;" />
+  <p><sub><i>🖥️ Holographic R&D Lab — Where scalable cloud pipelines, neural algorithms, and microcontroller hardware converge.</i></sub></p>
 </div>
 
-<!-- Sleek 2px Neon Laser Hairline -->
+<!-- 2px Neon Gradient Laser Line -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,50:00f0ff,100:bf00ff&height=3&section=header" width="100%" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- HONORS & ACHIEVEMENTS -->
+<!-- SECTION 02: TECH MATRIX // WEAPONS OF CHOICE -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3 id="-honors--achievements">🏆 <code>HALL_OF_FAME // HONORS & RECOGNITION</code></h3>
+<h3 id="-tech-matrix">⚙️ <code>[ 02 ] TECH_MATRIX // WEAPONS OF CHOICE</code></h3>
 
 <br/>
 
-<table>
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="33%" valign="top">
+<b>⚡ FRONTEND ARCHITECTURE</b><br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=4&theme=dark" />
+</a>
+<br/><br/>
+<sub>React 18/19 • Next.js • TypeScript • Tailwind CSS • Modern Responsive UI</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<b>🛠️ BACKEND & SYSTEMS</b><br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,c,cpp,bash,python&perline=4&theme=dark" />
+</a>
+<br/><br/>
+<sub>Node.js • Express • RESTful APIs • Python • C/C++ Embedded Logic</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<b>🗄️ DATA & DEVOPS</b><br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,aws,linux,git,github&perline=4&theme=dark" />
+</a>
+<br/><br/>
+<sub>MongoDB • PostgreSQL • Docker • Linux • AWS Cloud • CI/CD</sub>
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center" valign="top">
+<b>🤖 IOT, EMBEDDED HARDWARE & ROBOTICS</b><br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,electron,webpack,vscode,figma,postman,vercel&perline=8&theme=dark" />
+</a>
+<br/><br/>
+<sub>Arduino C++ • Raspberry Pi Microcomputing • ESP32 • Sensor Networks • Edge Robotics</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- 2px Neon Gradient Laser Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:bf00ff,100:00f0ff&height=3&section=header" width="100%" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SECTION 03: ACTIVE VENTURES & FEATURED CODEBASES -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3 id="-featured-ventures">🚀 <code>[ 03 ] VENTURES // HIGH-IMPACT CODEBASES</code></h3>
+
+<br/>
+
+<!-- Interactive Live GitHub Pins -->
+<a href="https://github.com/Shafiur0/bd-krishibid" target="_blank">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=bd-krishibid&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=00f0ff&icon_color=bf00ff&text_color=e2e8f0&description_lines=3" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Shafiur0/nexora-portfolio" target="_blank">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=nexora-portfolio&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=00f0ff&icon_color=bf00ff&text_color=e2e8f0&description_lines=3" />
+</a>
+
+<br/><br/>
+
+</div>
+
+<!-- Interactive Expandable 3D Project Accordions -->
+<details open>
+<summary><b>🌾 BD-Krishibid — AI AgriTech Intelligence Engine (5th Data Science Summit Finalist)</b></summary>
+<br/>
+
+> 🏅 **5th Data Science Summit Finalist — DIU SWE Conference**
+
+Next-generation agricultural platform engineered for Bangladeshi farmers. Combines machine learning crop recommendation models, computer-vision plant pathology diagnosis, and real-time commodity trade price analytics.
+- **Stack**: React, Node.js, Express, MongoDB, Python (Scikit-Learn, OpenCV)
+- **Key Features**: Automated Disease Detection, Predictive Crop Yields, Multilingual UI, Live Market Feed
+- **Repository**: [github.com/Shafiur0/bd-krishibid](https://github.com/Shafiur0/bd-krishibid)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🩺 NIiro 2.0 — Health AI Medical Screening Research (IEEE ICADHI 2026 Awardee)</b></summary>
+<br/>
+
+> 🥈 **1st Runner-Up @ IEEE ICADHI 2026 International Conference Project Showcase**
+
+Biomedical intelligence platform engineered with deep learning computer vision for early non-invasive medical screening and clinical diagnosis support.
+- **Stack**: Python, TensorFlow, FastAPI, React, OpenCV
+- **Key Features**: Automated Pathology Screening, High-Precision Inference, Real-Time Diagnostic Reports
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🏠 Smart Home & Distributed IoT Ecosystem (Hardware & Sensor Automation)</b></summary>
+<br/>
+
+Distributed IoT home automation and environmental telemetry architecture built with microcontrollers, wireless mesh, and cloud control dashboards.
+- **Stack**: ESP32, Arduino C++, MQTT, Node.js, WebSockets, Sensor Arrays
+- **Key Features**: Low-latency sensor telemetry, automated power management, remote mobile dashboard
+
+</details>
+
+<br/>
+
+<!-- 2px Neon Gradient Laser Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,50:00f0ff,100:bf00ff&height=3&section=header" width="100%" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SECTION 04: HALL OF FAME // HONORS & RECOGNITION -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3 id="-hall-of-fame">🏆 <code>[ 04 ] HALL_OF_FAME // HONORS & RECOGNITION</code></h3>
+
+<br/>
+
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="25%" valign="top">
   <br/>
@@ -159,128 +298,18 @@ const shafim: DeveloperProfile = {
 
 </div>
 
-<!-- Sleek 2px Neon Laser Hairline -->
+<!-- 2px Neon Gradient Laser Line -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:bf00ff,100:00f0ff&height=3&section=header" width="100%" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH MATRIX -->
+<!-- SECTION 05: TELEMETRY MATRIX & GITHUB METRICS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3 id="-tech-matrix">⚙️ <code>TECH_MATRIX // WEAPONS OF CHOICE</code></h3>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-<b>⚡ FRONTEND ARCHITECTURE</b><br/><br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=4&theme=dark" />
-</a>
-<br/><br/>
-<sub>React 18/19 • Next.js • TypeScript • Tailwind CSS • Responsive UI/UX</sub>
-</td>
-<td align="center" width="33%" valign="top">
-<b>🛠️ BACKEND & SYSTEMS</b><br/><br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,c,cpp,bash,python&perline=4&theme=dark" />
-</a>
-<br/><br/>
-<sub>Node.js • Express • RESTful APIs • Python • C/C++ Systems Logic</sub>
-</td>
-<td align="center" width="33%" valign="top">
-<b>🗄️ DATA & DEVOPS</b><br/><br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,aws,linux,git,github&perline=4&theme=dark" />
-</a>
-<br/><br/>
-<sub>MongoDB • PostgreSQL • Docker • Linux • AWS Cloud • CI/CD</sub>
-</td>
-</tr>
-<tr>
-<td colspan="3" align="center" valign="top">
-<b>🤖 IOT, EMBEDDED HARDWARE & ROBOTICS</b><br/><br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,electron,webpack,vscode,figma,postman,vercel&perline=8&theme=dark" />
-</a>
-<br/><br/>
-<sub>Arduino C++ • Raspberry Pi Microcomputing • ESP32 • Sensor Networks • IoT Automation</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Sleek 2px Neon Laser Hairline -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,50:00f0ff,100:bf00ff&height=3&section=header" width="100%" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED CODEBASES & VENTURES -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h3 id="-featured-projects">🚀 <code>VENTURES // FEATURED CODEBASES</code></h3>
-
-<br/>
-
-<!-- Live GitHub Pins -->
-<a href="https://github.com/Shafiur0/bd-krishibid" target="_blank">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=bd-krishibid&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=00f0ff&icon_color=bf00ff&text_color=e2e8f0&description_lines=3" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Shafiur0/nexora-portfolio" target="_blank">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=nexora-portfolio&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=00f0ff&icon_color=bf00ff&text_color=e2e8f0&description_lines=3" />
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌾 BD-Krishibid — AI AgriTech Engine
-> 🏅 *5th Data Science Summit Finalist (DIU SWE)*
-
-AI-powered agricultural platform designed for Bangladeshi farmers. Combines machine learning crop recommendation models, computer-vision disease diagnosis, and real-time market trade intelligence.
-
-- **Stack**: React, Node.js, Express, MongoDB, Python (Scikit-Learn)
-- **Key Capabilities**: Crop Pathology AI, Yield Predictions, Market Pricing
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 Nexora — Futuristic Developer Showcase
-> 🚀 *Modern Interactive Web Portfolio*
-
-High-performance personal web platform crafted with modern UI engineering — hardware-accelerated animations, glassmorphic layout, fluid responsiveness, and Edge deployment.
-
-- **Stack**: TypeScript, React, Modern CSS, Vercel Edge Runtime
-- **Key Capabilities**: Ultra-fast latency, modern dark aesthetic, modular components
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Sleek 2px Neon Laser Hairline -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:bf00ff,100:00f0ff&height=3&section=header" width="100%" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TELEMETRY & GITHUB ANALYTICS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h3 id="-telemetry--analytics">📊 <code>TELEMETRY // GITHUB ANALYTICS</code></h3>
+<h3 id="-telemetry-matrix">📊 <code>[ 05 ] TELEMETRY_MATRIX // GITHUB VELOCITY</code></h3>
 
 <br/>
 
@@ -298,7 +327,7 @@ High-performance personal web platform crafted with modern UI engineering — ha
 
 <br/><br/>
 
-<!-- Contribution Grid Snake -->
+<!-- Contribution Grid Snake Matrix -->
 <b>🐍 CODE VELOCITY // CONTRIBUTION MATRIX</b>
 
 <br/><br/>
@@ -311,20 +340,20 @@ High-performance personal web platform crafted with modern UI engineering — ha
 
 </div>
 
-<!-- Sleek 2px Neon Laser Hairline -->
+<!-- 2px Neon Gradient Laser Line -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,50:00f0ff,100:bf00ff&height=3&section=header" width="100%" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- QUANTUM TRANSMISSION // LET'S CONNECT -->
+<!-- SECTION 06: QUANTUM UPLINK // INITIALIZE CONNECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3 id="-quantum-uplink">📡 <code>QUANTUM_UPLINK // INITIALIZE CONNECTION</code></h3>
+<h3 id="-quantum-uplink">📡 <code>[ 06 ] QUANTUM_UPLINK // INITIALIZE CONNECTION</code></h3>
 
-<p>Have an exciting project, research proposal, or technical challenge? Let's connect.</p>
+<p>Have an ambitious project, research collaboration, or engineering challenge? Let's build together.</p>
 
 <br/>
 
@@ -343,7 +372,7 @@ High-performance personal web platform crafted with modern UI engineering — ha
 
 <br/>
 
-<!-- Modern Quote -->
+<!-- Modern Dev Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 
 <br/><br/>
