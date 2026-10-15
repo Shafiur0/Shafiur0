@@ -322,6 +322,7 @@ Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- SECTION 04: HALL OF FAME // HONORS & RECOGNITION -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -330,6 +331,11 @@ Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL
 <h3 id="-hall-of-fame">🏆 <code>[ 04 ] HALL_OF_FAME // HONORS & RECOGNITION</code></h3>
 
 <br/>
+
+<!-- Animated Team Cortex Crew Cyberpunk Honors Showcase -->
+<img width="100%" src="assets/achievements.svg" alt="Cortex Crew Honors & Achievements Matrix" style="border-radius: 12px; border: 1px solid #1f293d; box-shadow: 0 0 24px rgba(0, 240, 255, 0.25);" />
+
+<br/><br/>
 
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
 <tr>
@@ -368,6 +374,61 @@ Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL
   <sub>National Robotics Festival</sub><br/><br/>
   <code>Team: Cortex Crew</code>
   <br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Verified GitHub Official Achievements Showcase -->
+<b>🎖️ VERIFIED GITHUB PROFILE ACHIEVEMENTS</b>
+
+<br/><br/>
+
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="20%" valign="top">
+  <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="70" alt="Pull Shark Bronze" style="filter: drop-shadow(0 0 10px rgba(0, 240, 255, 0.45));" />
+  </a>
+  <br/>
+  <b>Pull Shark</b><br/>
+  <sub>🥉 Bronze Tier (16+ PRs)</sub>
+</td>
+<td align="center" width="20%" valign="top">
+  <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="70" alt="Starstruck" style="filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.45));" />
+  </a>
+  <br/>
+  <b>Starstruck</b><br/>
+  <sub>🌟 16+ Stars Collected</sub>
+</td>
+<td align="center" width="20%" valign="top">
+  <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="70" alt="Pair Extraordinaire Bronze" style="filter: drop-shadow(0 0 10px rgba(191, 0, 255, 0.45));" />
+  </a>
+  <br/>
+  <b>Pair Extraordinaire</b><br/>
+  <sub>🥉 Bronze Tier (10+ PRs)</sub>
+</td>
+<td align="center" width="20%" valign="top">
+  <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" alt="Quickdraw" style="filter: drop-shadow(0 0 10px rgba(0, 255, 157, 0.45));" />
+  </a>
+  <br/>
+  <b>Quickdraw</b><br/>
+  <sub>⚡ Resolved within 5m</sub>
+</td>
+<td align="center" width="20%" valign="top">
+  <a href="https://github.com/Shafiur0" target="_blank">
+    <br/>
+    <img src="https://img.shields.io/badge/GITHUB_PRO-00f0ff?style=for-the-badge&logo=github&logoColor=0d0d1a" />
+    <br/><br/>
+    <img src="https://img.shields.io/badge/DEVELOPER-VERIFIED-bf00ff?style=for-the-badge&logo=probot&logoColor=white" />
+  </a>
+  <br/><br/>
+  <b>GitHub Pro</b><br/>
+  <sub>⭐ Verified Member</sub>
 </td>
 </tr>
 </table>
