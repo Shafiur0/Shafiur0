@@ -387,7 +387,7 @@ Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL
 
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
 <tr>
-<td align="center" width="16.6%" valign="top">
+<td align="center" width="25%" valign="top">
   <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
     <img src="assets/galaxy_brain.png" width="68" alt="Galaxy Brain" style="filter: drop-shadow(0 0 10px rgba(191, 0, 255, 0.5));" />
   </a>
@@ -395,7 +395,15 @@ Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL
   <b>Galaxy Brain</b><br/>
   <sub>🧠 2+ Accepted Answers</sub>
 </td>
-<td align="center" width="16.6%" valign="top">
+<td align="center" width="25%" valign="top">
+  <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
+    <img src="assets/yolo.png" width="68" alt="YOLO" style="filter: drop-shadow(0 0 10px rgba(255, 165, 0, 0.5));" />
+  </a>
+  <br/>
+  <b>YOLO</b><br/>
+  <sub>🤠 Merged Without Review</sub>
+</td>
+<td align="center" width="25%" valign="top">
   <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
     <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="68" alt="Pull Shark Bronze" style="filter: drop-shadow(0 0 10px rgba(0, 240, 255, 0.45));" />
   </a>
@@ -403,7 +411,7 @@ Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL
   <b>Pull Shark</b><br/>
   <sub>🥉 Bronze (16+ PRs)</sub>
 </td>
-<td align="center" width="16.6%" valign="top">
+<td align="center" width="25%" valign="top">
   <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
     <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="68" alt="Starstruck" style="filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.45));" />
   </a>
@@ -411,7 +419,10 @@ Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL
   <b>Starstruck</b><br/>
   <sub>🌟 16+ Stars Collected</sub>
 </td>
-<td align="center" width="16.6%" valign="top">
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+  <br/>
   <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
     <img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="68" alt="Pair Extraordinaire Bronze" style="filter: drop-shadow(0 0 10px rgba(191, 0, 255, 0.45));" />
   </a>
@@ -419,7 +430,8 @@ Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL
   <b>Pair Extraordinaire</b><br/>
   <sub>🥉 Bronze (10+ PRs)</sub>
 </td>
-<td align="center" width="16.6%" valign="top">
+<td align="center" width="25%" valign="top">
+  <br/>
   <a href="https://github.com/Shafiur0?tab=achievements" target="_blank">
     <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="68" alt="Quickdraw" style="filter: drop-shadow(0 0 10px rgba(0, 255, 157, 0.45));" />
   </a>
@@ -427,16 +439,15 @@ Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL
   <b>Quickdraw</b><br/>
   <sub>⚡ Resolved in 5m</sub>
 </td>
-<td align="center" width="16.6%" valign="top">
+<td align="center" width="50%" colspan="2" valign="top">
+  <br/>
   <a href="https://github.com/Shafiur0" target="_blank">
-    <br/>
-    <img src="https://img.shields.io/badge/GITHUB_PRO-00f0ff?style=for-the-badge&logo=github&logoColor=0d0d1a" />
-    <br/><br/>
+    <img src="https://img.shields.io/badge/GITHUB_PRO-00f0ff?style=for-the-badge&logo=github&logoColor=0d0d1a" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/DEVELOPER-VERIFIED-bf00ff?style=for-the-badge&logo=probot&logoColor=white" />
   </a>
   <br/><br/>
-  <b>GitHub Pro</b><br/>
-  <sub>⭐ Verified Member</sub>
+  <b>Official GitHub Pro & Developer</b><br/>
+  <sub>⭐ Verified Member Account</sub>
 </td>
 </tr>
 </table>
