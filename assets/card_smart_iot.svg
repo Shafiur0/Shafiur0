@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="190" viewBox="0 0 460 190" fill="none">
+  <defs>
+    <linearGradient id="borderGrad4" x1="0" y1="0" x2="460" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00ff9d" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ffd700" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="bgGrad4" x1="0" y1="0" x2="460" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090f14"/>
+      <stop offset="100%" stop-color="#04080a"/>
+    </linearGradient>
+    <linearGradient id="cubeTop4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00ff9d"/>
+      <stop offset="100%" stop-color="#00cc7a"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#008855"/>
+      <stop offset="100%" stop-color="#00442a"/>
+    </linearGradient>
+    <linearGradient id="cubeRight4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00aa66"/>
+      <stop offset="100%" stop-color="#005533"/>
+    </linearGradient>
+    <filter id="glow4" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="457" height="187" rx="14" fill="url(#bgGrad4)" stroke="url(#borderGrad4)" stroke-width="1.5"/>
+  
+  <path d="M 14 6 L 6 6 L 6 14" stroke="#00ff9d" stroke-width="2" fill="none"/>
+  <path d="M 446 6 L 454 6 L 454 14" stroke="#00f0ff" stroke-width="2" fill="none"/>
+  <path d="M 6 176 L 6 184 L 14 184" stroke="#ffd700" stroke-width="2" fill="none"/>
+  <path d="M 454 176 L 454 184 L 446 184" stroke="#00ff9d" stroke-width="2" fill="none"/>
+
+  <g transform="translate(26, 24)">
+    <ellipse cx="18" cy="34" rx="16" ry="6" fill="#00ff9d" opacity="0.3" filter="url(#glow4)"/>
+    <polygon points="18,4 34,13 18,22 2,13" fill="url(#cubeTop4)" stroke="#ffffff" stroke-width="0.5"/>
+    <polygon points="2,13 18,22 18,36 2,27" fill="url(#cubeLeft4)"/>
+    <polygon points="18,22 34,13 34,27 18,36" fill="url(#cubeRight4)"/>
+    <circle cx="18" cy="20" r="2.5" fill="#ffffff" opacity="0.9" filter="url(#glow4)"/>
+  </g>
+
+  <text x="72" y="42" fill="#00ff9d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" letter-spacing="0.5">🏠 smart-iot-ecosystem</text>
+  
+  <rect x="306" y="22" width="130" height="22" rx="11" fill="#00ff9d" fill-opacity="0.15" stroke="#00ff9d" stroke-width="1"/>
+  <text x="371" y="37" fill="#00ff9d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">⚡ HARDWARE MESH</text>
+
+  <text x="26" y="78" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="500">
+    Distributed smart home automation &amp; sensor telemetry architecture
+  </text>
+  <text x="26" y="98" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="500">
+    engineered with microcontrollers, wireless mesh, and cloud dashboards.
+  </text>
+
+  <g transform="translate(26, 118)">
+    <rect x="0" y="0" width="56" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="28" y="14" fill="#e2e8f0" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">ESP32</text>
+
+    <rect x="64" y="0" width="86" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="107" y="14" fill="#00979d" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">Arduino C++</text>
+
+    <rect x="158" y="0" width="56" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="186" y="14" fill="#ff5722" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">MQTT</text>
+
+    <rect x="222" y="0" width="62" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="253" y="14" fill="#68a063" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">Node.js</text>
+
+    <rect x="292" y="0" width="80" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="332" y="14" fill="#38bdf8" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">WebSockets</text>
+  </g>
+
+  <line x1="26" y1="154" x2="434" y2="154" stroke="#1f293d" stroke-width="1"/>
+  <circle cx="34" cy="170" r="4" fill="#00ff9d"/>
+  <text x="45" y="174" fill="#94a3b8" font-family="monospace" font-size="11">REAL-TIME SENSORS • LOW LATENCY</text>
+  <text x="434" y="174" fill="#00ff9d" font-family="monospace" font-size="11" font-weight="700" text-anchor="end">VIEW 3D IOT MESH →</text>
+</svg>

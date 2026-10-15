@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="190" viewBox="0 0 460 190" fill="none">
+  <defs>
+    <linearGradient id="borderGrad2" x1="0" y1="0" x2="460" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#bf00ff" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#ff007f" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="bgGrad2" x1="0" y1="0" x2="460" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d0b1a"/>
+      <stop offset="100%" stop-color="#06050e"/>
+    </linearGradient>
+    <linearGradient id="cubeTop2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e066ff"/>
+      <stop offset="100%" stop-color="#bf00ff"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7700aa"/>
+      <stop offset="100%" stop-color="#3d0066"/>
+    </linearGradient>
+    <linearGradient id="cubeRight2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#aa00dd"/>
+      <stop offset="100%" stop-color="#550088"/>
+    </linearGradient>
+    <filter id="glow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="457" height="187" rx="14" fill="url(#bgGrad2)" stroke="url(#borderGrad2)" stroke-width="1.5"/>
+  
+  <path d="M 14 6 L 6 6 L 6 14" stroke="#bf00ff" stroke-width="2" fill="none"/>
+  <path d="M 446 6 L 454 6 L 454 14" stroke="#ff007f" stroke-width="2" fill="none"/>
+  <path d="M 6 176 L 6 184 L 14 184" stroke="#00f0ff" stroke-width="2" fill="none"/>
+  <path d="M 454 176 L 454 184 L 446 184" stroke="#bf00ff" stroke-width="2" fill="none"/>
+
+  <g transform="translate(26, 24)">
+    <ellipse cx="18" cy="34" rx="16" ry="6" fill="#bf00ff" opacity="0.3" filter="url(#glow2)"/>
+    <polygon points="18,4 34,13 18,22 2,13" fill="url(#cubeTop2)" stroke="#ffffff" stroke-width="0.5"/>
+    <polygon points="2,13 18,22 18,36 2,27" fill="url(#cubeLeft2)"/>
+    <polygon points="18,22 34,13 34,27 18,36" fill="url(#cubeRight2)"/>
+    <circle cx="18" cy="20" r="2.5" fill="#ffffff" opacity="0.9" filter="url(#glow2)"/>
+  </g>
+
+  <text x="72" y="42" fill="#bf00ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" letter-spacing="0.5">🩺 niiro-2.0-health-ai</text>
+  
+  <rect x="306" y="22" width="130" height="22" rx="11" fill="#bf00ff" fill-opacity="0.15" stroke="#bf00ff" stroke-width="1"/>
+  <text x="371" y="37" fill="#e066ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" text-anchor="middle">🥈 IEEE AWARDEE</text>
+
+  <text x="26" y="78" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="500">
+    Biomedical computer-vision platform for non-invasive medical
+  </text>
+  <text x="26" y="98" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="500">
+    pathology screening, high-precision inference and clinical diagnostics.
+  </text>
+
+  <g transform="translate(26, 118)">
+    <rect x="0" y="0" width="60" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="30" y="14" fill="#ffd343" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">Python</text>
+
+    <rect x="68" y="0" width="82" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="109" y="14" fill="#ff7043" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">TensorFlow</text>
+
+    <rect x="158" y="0" width="64" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="190" y="14" fill="#009688" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">FastAPI</text>
+
+    <rect x="230" y="0" width="56" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="258" y="14" fill="#61dafb" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">React</text>
+
+    <rect x="294" y="0" width="68" height="20" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="328" y="14" fill="#00ff9d" font-family="monospace" font-size="10" font-weight="600" text-anchor="middle">OpenCV</text>
+  </g>
+
+  <line x1="26" y1="154" x2="434" y2="154" stroke="#1f293d" stroke-width="1"/>
+  <circle cx="34" cy="170" r="4" fill="#bf00ff"/>
+  <text x="45" y="174" fill="#94a3b8" font-family="monospace" font-size="11">NEURAL VISION ONLINE • IEEE ICADHI 2026</text>
+  <text x="434" y="174" fill="#e066ff" font-family="monospace" font-size="11" font-weight="700" text-anchor="end">VIEW 3D DIAGNOSTICS →</text>
+</svg>

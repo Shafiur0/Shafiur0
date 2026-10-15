@@ -194,27 +194,60 @@ const shafim: ArchitectCore = {
 
 <br/>
 
-<!-- Interactive Live GitHub Pins -->
-<a href="https://github.com/Shafiur0/bd-krishibid" target="_blank">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=bd-krishibid&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=00f0ff&icon_color=bf00ff&text_color=e2e8f0&description_lines=3" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Shafiur0/nexora-portfolio" target="_blank">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiur0&repo=nexora-portfolio&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=00f0ff&icon_color=bf00ff&text_color=e2e8f0&description_lines=3" />
-</a>
+<!-- 3D Holographic Ventures Matrix Animation -->
+<img src="assets/ventures_3d.gif" width="100%" alt="3D Holographic Ventures Matrix" style="border-radius: 12px; border: 1px solid #1f293d; box-shadow: 0 0 24px rgba(0, 240, 255, 0.25);" />
+<p><sub><i>🌐 <b>3D Holographic Ventures Matrix</b> — Multi-model neural networks, autonomous agritech diagnostic stages, and distributed IoT telemetry clusters.</i></sub></p>
 
-<br/><br/>
+<br/>
+
+<!-- 3D Isometric Interactive Project Cards Matrix -->
+<table border="0" cellpadding="0" cellspacing="8" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Shafiur0/bd-krishibid" target="_blank">
+    <img width="100%" src="assets/card_bd_krishibid.svg" alt="BD-Krishibid 3D Isometric Card" />
+  </a>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Shafiur0" target="_blank">
+    <img width="100%" src="assets/card_niiro_ai.svg" alt="NIiro 2.0 3D Isometric Card" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Shafiur0" target="_blank">
+    <img width="100%" src="assets/card_smart_iot.svg" alt="Smart IoT 3D Isometric Card" />
+  </a>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Shafiur0/nexora-portfolio" target="_blank">
+    <img width="100%" src="assets/card_nexora_3d.svg" alt="Nexora 3D OS Isometric Card" />
+  </a>
+</td>
+</tr>
+</table>
+
+<br/>
 
 </div>
 
-<!-- Interactive Expandable 3D Project Accordions -->
+<!-- Interactive Expandable 3D Project Deep Dives -->
 <details open>
 <summary><b>🌾 BD-Krishibid — AI AgriTech Intelligence Engine (5th Data Science Summit Finalist)</b></summary>
 <br/>
 
+<div align="center">
+  <a href="https://github.com/Shafiur0/bd-krishibid" target="_blank">
+    <img width="100%" src="assets/bd_krishibid_3d.jpg" alt="BD-Krishibid 3D AI Agriculture Platform Diagnostic Stage" style="border-radius: 10px; border: 1px solid #00f0ff; box-shadow: 0 0 20px rgba(0, 240, 255, 0.25);" />
+  </a>
+  <p><sub><i>🌱 <b>3D Holographic Crop Diagnostics</b> — Computer-vision plant pathology stage with laser scanning & real-time telemetry analytics.</i></sub></p>
+</div>
+
 > 🏅 **5th Data Science Summit Finalist — DIU SWE Conference**
 
 Next-generation agricultural platform engineered for Bangladeshi farmers. Combines machine learning crop recommendation models, computer-vision plant pathology diagnosis, and real-time commodity trade price analytics.
-- **Stack**: React, Node.js, Express, MongoDB, Python (Scikit-Learn, OpenCV)
+- **Stack**: `React` • `Node.js` • `Express` • `MongoDB` • `Python` (Scikit-Learn, OpenCV)
 - **Key Features**: Automated Disease Detection, Predictive Crop Yields, Multilingual UI, Live Market Feed
 - **Repository**: [github.com/Shafiur0/bd-krishibid](https://github.com/Shafiur0/bd-krishibid)
 
@@ -226,11 +259,19 @@ Next-generation agricultural platform engineered for Bangladeshi farmers. Combin
 <summary><b>🩺 NIiro 2.0 — Health AI Medical Screening Research (IEEE ICADHI 2026 Awardee)</b></summary>
 <br/>
 
+<div align="center">
+  <a href="https://github.com/Shafiur0" target="_blank">
+    <img width="100%" src="assets/niiro_health_ai_3d.jpg" alt="NIiro 2.0 Health AI 3D Diagnostic Stage" style="border-radius: 10px; border: 1px solid #bf00ff; box-shadow: 0 0 20px rgba(191, 0, 255, 0.25);" />
+  </a>
+  <p><sub><i>🧠 <b>3D Neural Biometric Diagnostic Bed</b> — Deep learning computer vision pathology grid & non-invasive clinical screening.</i></sub></p>
+</div>
+
 > 🥈 **1st Runner-Up @ IEEE ICADHI 2026 International Conference Project Showcase**
 
 Biomedical intelligence platform engineered with deep learning computer vision for early non-invasive medical screening and clinical diagnosis support.
-- **Stack**: Python, TensorFlow, FastAPI, React, OpenCV
+- **Stack**: `Python` • `TensorFlow` • `FastAPI` • `React` • `OpenCV`
 - **Key Features**: Automated Pathology Screening, High-Precision Inference, Real-Time Diagnostic Reports
+- **Research Collaboration**: Cortex Crew AI Biomedical Lab
 
 </details>
 
@@ -240,9 +281,36 @@ Biomedical intelligence platform engineered with deep learning computer vision f
 <summary><b>🏠 Smart Home & Distributed IoT Ecosystem (Hardware & Sensor Automation)</b></summary>
 <br/>
 
+<div align="center">
+  <a href="https://github.com/Shafiur0" target="_blank">
+    <img width="100%" src="assets/smart_iot_3d.jpg" alt="Distributed IoT Hardware Automation Architecture" style="border-radius: 10px; border: 1px solid #00ff9d; box-shadow: 0 0 20px rgba(0, 255, 157, 0.25);" />
+  </a>
+  <p><sub><i>⚡ <b>3D Embedded Hardware & Telemetry Matrix</b> — ESP32 microcontrollers, wireless mesh topologies, and cloud telemetry racks.</i></sub></p>
+</div>
+
 Distributed IoT home automation and environmental telemetry architecture built with microcontrollers, wireless mesh, and cloud control dashboards.
-- **Stack**: ESP32, Arduino C++, MQTT, Node.js, WebSockets, Sensor Arrays
+- **Stack**: `ESP32` • `Arduino C++` • `MQTT` • `Node.js` • `WebSockets` • `Sensor Arrays`
 - **Key Features**: Low-latency sensor telemetry, automated power management, remote mobile dashboard
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🌐 Nexora 3D OS — WebGL Developer Environment & Portfolio</b></summary>
+<br/>
+
+<div align="center">
+  <a href="https://shafim.vercel.app/" target="_blank">
+    <img width="100%" src="assets/hero_banner.jpg" alt="Nexora 3D OS WebGL Interface" style="border-radius: 10px; border: 1px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.25);" />
+  </a>
+  <p><sub><i>🚀 <b>3D Interactive Operating System</b> — Hardware-accelerated WebGL rendering, glassmorphic window manager, and responsive soundscapes.</i></sub></p>
+</div>
+
+Ultra-fast next-generation developer web showcase featuring interactive 3D WebGL scenes, fluid glassmorphism, terminal emulation, and edge deployment.
+- **Stack**: `TypeScript` • `React` • `Three.js` • `Tailwind CSS` • `Vercel`
+- **Live OS**: [shafim.vercel.app](https://shafim.vercel.app/)
+- **Repository**: [github.com/Shafiur0/nexora-portfolio](https://github.com/Shafiur0/nexora-portfolio)
 
 </details>
 
