@@ -3,12 +3,12 @@
 </div>
 
 <p align="center">
-<a href="#profile"><img src="assets/ds/nav-01.svg" width="15.6%" alt="01 Profile" /></a><a href="#stack"><img src="assets/ds/nav-02.svg" width="15.6%" alt="02 Stack" /></a><a href="#work"><img src="assets/ds/nav-03.svg" width="15.6%" alt="03 Work" /></a><a href="#awards"><img src="assets/ds/nav-04.svg" width="15.6%" alt="04 Awards" /></a><a href="#stats"><img src="assets/ds/nav-05.svg" width="15.6%" alt="05 Stats" /></a><a href="#contact"><img src="assets/ds/nav-06.svg" width="15.6%" alt="06 Contact" /></a>
+<a href="#user-content-profile"><img src="assets/ds/nav-01.svg" width="15.6%" alt="01 Profile" /></a><a href="#user-content-stack"><img src="assets/ds/nav-02.svg" width="15.6%" alt="02 Stack" /></a><a href="#user-content-work"><img src="assets/ds/nav-03.svg" width="15.6%" alt="03 Work" /></a><a href="#user-content-awards"><img src="assets/ds/nav-04.svg" width="15.6%" alt="04 Awards" /></a><a href="#user-content-stats"><img src="assets/ds/nav-05.svg" width="15.6%" alt="05 Stats" /></a><a href="#user-content-contact"><img src="assets/ds/nav-06.svg" width="15.6%" alt="06 Contact" /></a>
 </p>
 
 <br />
 
-<a name="profile"></a>
+<a id="profile"></a>
 <img src="assets/ds/head-01.svg" width="100%" alt="Section 01 — Profile" />
 
 I'm a software engineering student in Dhaka who builds across the whole stack — and then past it, into the hardware. My work usually starts as a web platform and ends up talking to microcontrollers, or the other way round.
@@ -19,7 +19,7 @@ Most of what I ship lives at the seam between three things: **cloud software** t
 
 <br />
 
-<a name="stack"></a>
+<a id="stack"></a>
 <img src="assets/ds/head-02.svg" width="100%" alt="Section 02 — Stack" />
 
 Five layers, one mental model. I care less about which framework is fashionable and more about whether the whole pipeline holds when a sensor drops a packet at 3 a.m.
@@ -28,7 +28,7 @@ Five layers, one mental model. I care less about which framework is fashionable 
 
 <br />
 
-<a name="work"></a>
+<a id="work"></a>
 <img src="assets/ds/head-03.svg" width="100%" alt="Section 03 — Work" />
 
 <p align="center">
@@ -42,7 +42,7 @@ Five layers, one mental model. I care less about which framework is fashionable 
 
 <br />
 
-<a name="awards"></a>
+<a id="awards"></a>
 <img src="assets/ds/head-04.svg" width="100%" alt="Section 04 — Awards" />
 
 <img src="assets/ds/awards.svg" width="100%" alt="Awards ledger: CSAD 2026 champion, IEEE ICADHI 2026 first runner-up, two finalist placements" />
@@ -63,7 +63,7 @@ Five layers, one mental model. I care less about which framework is fashionable 
 
 <br />
 
-<a name="stats"></a>
+<a id="stats"></a>
 <img src="assets/ds/head-05.svg" width="100%" alt="Section 05 — Stats" />
 
 <img src="assets/ds/telemetry.svg" width="100%" alt="Live telemetry: contributions, commits, pull requests, stars, repositories, followers, contribution calendar and language breakdown" />
@@ -80,7 +80,7 @@ Five layers, one mental model. I care less about which framework is fashionable 
 
 <br />
 
-<a name="contact"></a>
+<a id="contact"></a>
 <img src="assets/ds/head-06.svg" width="100%" alt="Section 06 — Contact" />
 
 <p align="center">
