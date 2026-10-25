@@ -124,6 +124,22 @@ def corner_marks(w, h, inset=22, length=11, color=INK3, opacity=0.45):
     return "".join(o)
 
 
+def plate_defs(w, h, rx=15, gid="grainF"):
+    """Shared <defs> for a plate: rounded clip + film-grain filter."""
+    return (f'<filter id="{gid}" x="0" y="0" width="100%" height="100%">'
+            f'<feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" '
+            f'stitchTiles="stitch"/>'
+            f'<feColorMatrix type="saturate" values="0"/></filter>'
+            f'<clipPath id="plateClip"><rect x="1" y="1" width="{w-2}" height="{h-2}" '
+            f'rx="{rx}"/></clipPath>')
+
+
+def grain(w, h, opacity=0.05, gid="grainF"):
+    """Fine film grain laid over a plate — reads as print texture, not noise."""
+    return (f'<rect x="0" y="0" width="{w}" height="{h}" filter="url(#{gid})" '
+            f'opacity="{opacity}" clip-path="url(#plateClip)" pointer-events="none"/>')
+
+
 def ink_grad(gid="inkG"):
     return (f'<linearGradient id="{gid}" x1="0" y1="0" x2="0" y2="1">'
             f'<stop offset="0%" stop-color="#FFFFFF"/>'

@@ -70,16 +70,6 @@ Five layers, one mental model. I care less about which framework is fashionable 
 
 <br />
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shafiur0/Shafiur0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shafiur0/Shafiur0/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Shafiur0/Shafiur0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution grid" />
-</picture>
-</p>
-
-<br />
-
 <a id="contact"></a>
 <img src="assets/ds/head-06.svg" width="100%" alt="Section 06 — Contact" />
 

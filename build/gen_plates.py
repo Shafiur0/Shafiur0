@@ -1,6 +1,7 @@
 """Generates every plate in the profile system."""
 import os
 import ds as D
+import v3
 from ds import T, M, TW
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets", "ds")
@@ -17,69 +18,143 @@ def emit(name, svg):
 # ══════════════════════════════════════════════════════════════════════════════
 # COVER
 # ══════════════════════════════════════════════════════════════════════════════
+def _stack(ox, oy, h=65, yf=0.34, spacing=61, th=8, n=5):
+    """Exploded isometric stack of n slabs, each floating on its own phase."""
+    C = 0.866
+
+    def P(x, y, z):
+        return (ox + (x - y) * C, oy + (x + y) * yf - z)
+
+    def pts(seq):
+        return " ".join(f"{p[0]:.1f},{p[1]:.1f}" for p in seq)
+
+    out = []
+    out.append(f'<line x1="{ox}" y1="{oy - (n-1)*spacing - 2*h*yf - 30}" x2="{ox}" '
+               f'y2="{oy + 2*h*yf + 26}" stroke="{D.ACC}" stroke-width="1" '
+               f'opacity="0.28" stroke-dasharray="2 7"/>')
+
+    for i in range(n):
+        z = i * spacing
+        top = [P(-h, -h, z + th), P(h, -h, z + th), P(h, h, z + th), P(-h, h, z + th)]
+        left = [P(-h, h, z + th), P(h, h, z + th), P(h, h, z), P(-h, h, z)]
+        right = [P(h, -h, z + th), P(h, h, z + th), P(h, h, z), P(h, -h, z)]
+
+        top_slab = i == n - 1
+        op = 0.95 if top_slab else 0.66 + 0.07 * i
+        g = [f'<g opacity="{op:.2f}">']
+        g.append(f'<polygon points="{pts(left)}" fill="#0D0D12" stroke="#31313A" '
+                 f'stroke-width="0.8"/>')
+        g.append(f'<polygon points="{pts(right)}" fill="#101016" stroke="#31313A" '
+                 f'stroke-width="0.8"/>')
+        g.append(f'<polygon points="{pts(top)}" fill="#191921" stroke="#3C3C47" '
+                 f'stroke-width="0.9"/>')
+
+        for t in (-0.5, 0.0, 0.5):
+            a, b = P(-h, h * t, z + th), P(h, h * t, z + th)
+            g.append(f'<line x1="{a[0]:.1f}" y1="{a[1]:.1f}" x2="{b[0]:.1f}" '
+                     f'y2="{b[1]:.1f}" stroke="#3A3A45" stroke-width="0.55"/>')
+            a, b = P(h * t, -h, z + th), P(h * t, h, z + th)
+            g.append(f'<line x1="{a[0]:.1f}" y1="{a[1]:.1f}" x2="{b[0]:.1f}" '
+                     f'y2="{b[1]:.1f}" stroke="#3A3A45" stroke-width="0.55"/>')
+
+        if top_slab:
+            g.append(f'<polygon points="{pts(top)}" fill="none" stroke="{D.ACC}" '
+                     f'stroke-width="1.5" opacity="0.9"/>')
+            c = P(0, 0, z + th)
+            g.append(f'<circle cx="{c[0]:.1f}" cy="{c[1]:.1f}" r="2.6" fill="{D.ACC}"/>')
+            g.append(f'<circle cx="{c[0]:.1f}" cy="{c[1]:.1f}" r="2.6" fill="none" '
+                     f'stroke="{D.ACC}" stroke-width="1">'
+                     f'<animate attributeName="r" values="2.6;15" dur="3.2s" '
+                     f'repeatCount="indefinite"/>'
+                     f'<animate attributeName="opacity" values="0.7;0" dur="3.2s" '
+                     f'repeatCount="indefinite"/></circle>')
+        g.append('</g>')
+        dur = 6.2 + i * 0.5
+        out.append(f'<g><animateTransform attributeName="transform" type="translate" '
+                   f'values="0 0; 0 {-3.5 - i * 0.5:.1f}; 0 0" dur="{dur:.1f}s" '
+                   f'begin="{-i * 0.6:.1f}s" repeatCount="indefinite"/>{"".join(g)}</g>')
+    return "".join(out)
+
+
 def cover():
-    H = 480
+    H = 580
     b = [D.plate(W, H), f'<g clip-path="url(#clip)">{D.grid(W, H)}</g>']
-    for cx, sy in [(13, 1), (W - 13, 1)]:
-        b.append(f'<path d="M{cx + 9*sy} 13 L{cx} 13 L{cx} 22" stroke="{D.INK3}" '
+    for cx in (13, W - 13):
+        b.append(f'<path d="M{cx + 9} 13 L{cx} 13 L{cx} 22" stroke="{D.INK3}" '
                  f'stroke-width="1" opacity="0.35" fill="none"/>')
 
+    # ── 3D layer stack (behind the wordmark) ───────────────────────────────
+    b.append(f'<ellipse cx="838" cy="272" rx="145" ry="215" fill="url(#stackGlow)"/>')
+    b.append(_stack(838, 386, h=65, yf=0.34, spacing=61, th=8, n=5))
+
+    # ── top meta ───────────────────────────────────────────────────────────
     b.append(M("SOFTWARE ENGINEER — PORTFOLIO INDEX", MARGIN, 44, 9.5, D.INK3, 2.3))
     b.append(M("ED. 2026  /  DHAKA, BANGLADESH  ·  23.8103°N 90.4125°E",
                W - MARGIN, 44, 9.5, D.INK3, 2.3, anchor="end"))
     b.append(D.rule(MARGIN, 58, W - MARGIN, 58))
 
+    # ── kicker + wordmark ──────────────────────────────────────────────────
     b.append(f'<rect x="{MARGIN}" y="112" width="7" height="7" fill="{D.ACC}"/>')
     b.append(M("SHAFIUR RAHMAN", MARGIN + 17, 120, 12, D.ACC, 4.2))
 
-    size, track = 240, -8
-    b.append(T("SHAFIM", MARGIN, 330, size, "url(#inkG)", track))
+    size, track = 190, -7
+    b.append(T("SHAFIM", MARGIN, 300, size, "url(#inkG)", track))
     wm = TW("SHAFIM", size, track)
-    b.append(f'<rect x="{MARGIN+wm+22}" y="306" width="24" height="24" fill="{D.ACC}">'
+    b.append(f'<rect x="{MARGIN+wm+12}" y="278" width="22" height="22" fill="{D.ACC}">'
              f'<animate attributeName="opacity" values="1;1;0.12;1" dur="4.6s" '
              f'repeatCount="indefinite" keyTimes="0;0.87;0.94;1"/></rect>')
 
-    b.append(D.rule(MARGIN, 364, MARGIN + wm + 46, 364, D.HAIR2))
-    b.append(f'<line x1="{MARGIN}" y1="364" x2="{MARGIN+56}" y2="364" stroke="{D.ACC}" '
+    b.append(D.rule(MARGIN, 336, MARGIN + wm + 44, 336, D.HAIR2))
+    b.append(f'<line x1="{MARGIN}" y1="336" x2="{MARGIN+56}" y2="336" stroke="{D.ACC}" '
              f'stroke-width="2"/>')
     b.append(M("FULL-STACK ENGINEERING · EMBEDDED IOT · APPLIED MACHINE LEARNING",
-               MARGIN, 394, 11.5, D.INK2, 2.6))
+               MARGIN, 368, 11.5, D.INK2, 2.6))
     b.append(M("B.SC. SOFTWARE ENGINEERING — DAFFODIL INTERNATIONAL UNIVERSITY  /  "
                "CORTEX CREW · LEAD SOFTWARE & ROBOTICS ARCHITECT",
-               MARGIN, 416, 9, D.INK3, 1.9))
+               MARGIN, 390, 9, D.INK3, 1.9))
 
-    b.append(D.rule(MARGIN, 436, W - MARGIN, 436))
+    # ── bottom strip ───────────────────────────────────────────────────────
+    b.append(D.rule(MARGIN, 500, W - MARGIN, 500))
     x = MARGIN
     stats = [("32", "REPOSITORIES"), ("06", "AWARDS"), ("2024", "ACTIVE SINCE")]
     for i, (num, lab) in enumerate(stats):
         nw = TW(num, 19)
-        b.append(T(num, x, 462, 19, D.INK, -0.3))
+        b.append(T(num, x, 532, 19, D.INK, -0.3))
         lx = x + nw + 9
-        b.append(M(lab, lx, 461, 8.5, D.INK3, 1.7))
+        b.append(M(lab, lx, 531, 8.5, D.INK3, 1.7))
         x = lx + len(lab) * 6.8 + 34
         if i < len(stats) - 1:
-            b.append(D.rule(x - 17, 447, x - 17, 469, D.HAIR))
+            b.append(D.rule(x - 17, 516, x - 17, 540, D.HAIR))
 
     px = W - MARGIN - 200
-    b.append(f'<circle cx="{px+6}" cy="457" r="3.2" fill="{D.ACC}"/>'
-             f'<circle cx="{px+6}" cy="457" r="3.2" fill="none" stroke="{D.ACC}" '
+    b.append(f'<circle cx="{px+6}" cy="527" r="3.2" fill="{D.ACC}"/>'
+             f'<circle cx="{px+6}" cy="527" r="3.2" fill="none" stroke="{D.ACC}" '
              f'stroke-width="1"><animate attributeName="r" values="3.2;15" dur="2.8s" '
              f'repeatCount="indefinite"/><animate attributeName="opacity" values="0.65;0" '
              f'dur="2.8s" repeatCount="indefinite"/></circle>')
-    b.append(M("OPEN TO COLLABORATE", px + 20, 461, 9.5, D.INK2, 2.1))
+    b.append(M("OPEN TO COLLABORATE", px + 20, 531, 9.5, D.INK2, 2.1))
+
+    b.append(D.grain(W, H))
 
     b.append(f'<g clip-path="url(#clip)"><g><rect x="0" y="-170" width="{W}" height="170" '
              f'fill="url(#sweep)"/><animateTransform attributeName="transform" '
-             f'type="translate" from="0 0" to="0 {H+170}" dur="13s" '
+             f'type="translate" from="0 0" to="0 {H+170}" dur="14s" '
              f'repeatCount="indefinite"/></g></g>')
 
-    defs = (D.ink_grad() +
+    defs = (D.plate_defs(W, H) + D.ink_grad() +
             f'<clipPath id="clip"><rect x="1" y="1" width="{W-2}" height="{H-2}" rx="15"/></clipPath>'
             f'<linearGradient id="sweep" x1="0" y1="0" x2="0" y2="1">'
             f'<stop offset="0%" stop-color="{D.ACC}" stop-opacity="0"/>'
             f'<stop offset="70%" stop-color="{D.ACC}" stop-opacity="0.055"/>'
-            f'<stop offset="100%" stop-color="{D.ACC}" stop-opacity="0"/></linearGradient>')
+            f'<stop offset="100%" stop-color="{D.ACC}" stop-opacity="0"/></linearGradient>'
+            f'<radialGradient id="stackGlow" cx="0.5" cy="0.5" r="0.5">'
+            f'<stop offset="0%" stop-color="{D.ACC}" stop-opacity="0.14"/>'
+            f'<stop offset="55%" stop-color="{D.ACC}" stop-opacity="0.04"/>'
+            f'<stop offset="100%" stop-color="{D.ACC}" stop-opacity="0"/></radialGradient>')
     emit("cover.svg", D.svg(W, H, "".join(b), defs))
+
+
+cover()
 
 
 # ══════════════════════════════════════════════════════════════════════════════
