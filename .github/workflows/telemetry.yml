@@ -38,4 +38,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/ds/telemetry.svg
           git diff --staged --quiet || git commit -m "chore: refresh telemetry plate"
+          git pull --rebase --autostash origin main
           git push
