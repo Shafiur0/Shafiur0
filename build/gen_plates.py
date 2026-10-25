@@ -231,6 +231,19 @@ for i, (n, t, s) in enumerate(HEADERS):
 
 
 # ══════════════════════════════════════════════════════════════════════════════
+# FIGURE CAPTION (sits above the third-party snake animation)
+# ══════════════════════════════════════════════════════════════════════════════
+def cap_grid():
+    H = 36
+    b = [M("CONTRIBUTION ACTIVITY — ANIMATED GRID", MARGIN, 24, 8.5, D.ACC, 2.2),
+         M("REGENERATED EVERY 12 HOURS", W - MARGIN, 24, 8.5, D.INK3, 2.0, anchor="end")]
+    emit("cap-grid.svg", D.svg(W, H, "".join(b)))
+
+
+cap_grid()
+
+
+# ══════════════════════════════════════════════════════════════════════════════
 # SPEC SHEET
 # ══════════════════════════════════════════════════════════════════════════════
 def spec():

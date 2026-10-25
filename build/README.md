@@ -13,6 +13,7 @@ kept perfectly consistent.
 | `gen_plates.py` | Cover, nav/contact chips, section headers, spec sheet, stack matrix, project cards, ledgers, footer |
 | `gen_telemetry.py` | Fetches live GitHub data and renders `telemetry.svg` |
 | `v3.py` | Pinhole camera, projection, depth sorting, shaded boxes for the 3D plates |
+| `patch_snake.py` | Injects the plate background into the generated snake SVG |
 | `preview_full.py` | Renders `README.md` to HTML/PNG for visual QA |
 | `shot.py` | Screenshots individual plates at a given scale |
 

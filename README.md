@@ -70,6 +70,14 @@ Five layers, one mental model. I care less about which framework is fashionable 
 
 <br />
 
+<img src="assets/ds/cap-grid.svg" width="100%" alt="Contribution activity — animated grid" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shafiur0/Shafiur0/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating through the contribution grid" />
+</p>
+
+<br />
+
 <a id="contact"></a>
 <img src="assets/ds/head-06.svg" width="100%" alt="Section 06 — Contact" />
 
